@@ -1,0 +1,1134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of John Pym Esquire upon the whole matter of the charge of high treason against Thomas Earle of Strafford, April 12, 1641 with An argument of law concerning the bill of attainder of high treason of the said Earle of Strafford, before a committee of both Houses of Parliament, in Westminster Hall by Mr. St. Iohn His Majesties solicitor Generall, on Thursday, April 29, 1641 / both published by order of the Commons House.</title>
+            <author>Pym, John, 1584-1643.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 156 KB of XML-encoded text transcribed from 58 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56321</idno>
+            <idno type="STC">Wing P4262</idno>
+            <idno type="STC">ESTC R182279</idno>
+            <idno type="EEBO-CITATION">12601520</idno>
+            <idno type="OCLC">ocm 12601520</idno>
+            <idno type="VID">64185</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56321)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64185)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1533:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of John Pym Esquire upon the whole matter of the charge of high treason against Thomas Earle of Strafford, April 12, 1641 with An argument of law concerning the bill of attainder of high treason of the said Earle of Strafford, before a committee of both Houses of Parliament, in Westminster Hall by Mr. St. Iohn His Majesties solicitor Generall, on Thursday, April 29, 1641 / both published by order of the Commons House.</title>
+                  <author>Pym, John, 1584-1643.</author>
+                  <author>St. John, Oliver, 1598?-1673. Argument of law concerning the bill of attainder of high-treason of Thomas Earle of Strafford.</author>
+               </titleStmt>
+               <extent>[4], 29, [3], 78 p.   </extent>
+               <publicationStmt>
+                  <publisher>for John Bartlet ...,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Each speech has special t.p. and separate paging.</note>
+                  <note>Imperfect: print show-through  with some loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strafford, Thomas Wentworth, --  Earl of, 1593-1641.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:64185:1"/>
+               <pb facs="tcp:64185:1"/> THE DECLARATION OF JOHN PYM <hi>Eſquire, VPON</hi> THE VVHOLE MATTER of the Charge of <hi>High Treaſon,</hi> againſt THOMAS EARLE OF STRAFFORD, APRIL 12. 1641.</p>
+            <p>
+               <hi>WITH</hi> An ARGUMENT of Law concerning the Bill of
+<hi>Attainder</hi> of <hi>High Treaſon</hi> of the ſaid EARLE of STRAFFORD,
+<hi>Before a Committee of both Houſes of Parliament,</hi> in WESTMINSTER Hall, BY M<hi rend="sup">r</hi> 
+               <hi>S<hi rend="sup">t</hi>-Iohn</hi> his Majeſties Solicitor Generall, on
+<hi>Thurſday, April</hi> 29. 1641.</p>
+            <p>
+               <hi>Both Publiſhed by Order of the Commons Houſe.</hi>
+            </p>
+            <p>Printed at London for <hi>Iohn Bartlet,</hi> and are to be ſold at the <hi>gilt Cup</hi> near S. <hi>Auſtins</hi> Gate, in <hi>Pauls</hi> Church-yard. 1641.</p>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:64185:2" rendition="simple:additions"/>
+                  <pb facs="tcp:64185:2"/>
+                  <p>THE SPEECH OR DECLARATION OF <hi>JOHN PYM,</hi> Eſquire: After the Recapitulation or ſumming up of the Charge of <hi>High-Treaſon, AGAINST</hi> THOMAS, EARLE OF STRAFFORD, 12. APRIL, 1641.</p>
+                  <p>
+                     <hi>Publiſhed by Order of the</hi> COMMONS HOUSE.</p>
+                  <figure/>
+                  <p>
+                     <hi>LONDON,</hi> Printed for JOHN BARTLET. 1641.</p>
+               </div>
+            </front>
+            <body>
+               <div type="speech">
+                  <pb facs="tcp:64185:3"/>
+                  <pb n="1" facs="tcp:64185:3"/>
+                  <head>THE SPEECH OR DECLARATION OF <hi>JOHN PYM,</hi> Eſq: &amp;c.</head>
+                  <opener>
+                     <salute>MY LORDS,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">M</seg>Any dayes have been ſpent in maintenance of the Impeach<g ref="char:EOLhyphen"/>ment of the <hi>Earle</hi> of <hi>Strafford,</hi> by the
+<hi>Houſe</hi> of <hi>Commons,</hi> whereby he ſtands charged with <hi>High Treaſon:</hi> And your <hi>Lordſhips</hi> have heard his <hi>Defence</hi> with <hi>Patience,</hi> and with as much favour as <hi>Iuſtice</hi> would allow: We have paſſed through our
+<pb n="2" facs="tcp:64185:4"/> 
+                     <hi>Evidence,</hi> and the <hi>Reſult</hi> of all this is, that it remaines clearly proved, <hi>That the Earle of Strafford hath indeavoured by his words, actions, and counſels, to ſubvert the Fundamentall Lawes of England and Ireland, and to introduce an Arbitrary and Tyrannicall Government.</hi>
+                  </p>
+                  <p>This is the <hi>envenomed Arrow</hi> for which he inquired in the beginning of his <hi>Replication</hi> this day, which hath infected all his
+<hi>Bloud:</hi> This is that <hi>Intoxicating Cup,</hi> (to uſe his owne Metaphor) which hath tainted his <hi>Iudgement,</hi> and poiſoned his
+<hi>Heart:</hi> From hence was infuſed that <hi>Specificall Difference</hi> which tur<g ref="char:EOLhyphen"/>ned his <hi>Speeches,</hi> his <hi>Actions,</hi> his
+<hi>Counſels</hi> into <hi>Treaſon;</hi> Not <hi>Cumulative,</hi> as he expreſt it, as if many <hi>Miſdemeanours</hi> could make one
+<hi>Treaſon;</hi> but <hi>Formally</hi> and <hi>Eſſentially.</hi> It is the <hi>End</hi> that doth informe <hi>Actions,</hi> and doth
+<hi>ſpecificate</hi> the <hi>nature</hi> of them, making not onely
+<hi>criminall,</hi> but even <hi>indifferent words</hi> and <hi>actions</hi> to be <hi>Treaſon,</hi> being done and ſpoken with a <hi>Trea<g ref="char:EOLhyphen"/>ſonable intention.</hi>
+                  </p>
+                  <p>That which is given me in <hi>charge,</hi> is, to
+<pb n="3" facs="tcp:64185:4"/> ſhew the <hi>quality</hi> of the
+<hi>offence,</hi> how <hi>hainous</hi> it is in the <hi>nature,</hi> how
+<hi>miſchievous</hi> in the <hi>effect</hi> of it; which will beſt appeare if it be exami<g ref="char:EOLhyphen"/>ned by that <hi>Law,</hi> to which he himſelfe appea<g ref="char:EOLhyphen"/>led, that
+<hi>univerſall,</hi> that <hi>ſupreme Law, Salus po<g ref="char:EOLhyphen"/>puli:</hi> This is the
+<hi>Element</hi> of all Laws, out of which they are derived; the <hi>End</hi> of all Laws, to which they are deſigned, and in which they are perfected. How far it ſtands in op<g ref="char:EOLhyphen"/>poſition to this <hi>Law,</hi> I ſhall endeavour to ſhew in ſome <hi>Conſiderations</hi> which I ſhal pre<g ref="char:EOLhyphen"/>ſent to your Lordſhips, all ariſing out of the <hi>Evidence</hi> which hath been opened.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> The firſt is this: It is an offence
+<hi>comprehen<g ref="char:EOLhyphen"/>ding</hi> all other offences; here you ſhall finde ſeverall
+<hi>Treaſons, Murders, Rapines, Oppreſsions, Perjuries.</hi>
+                  </p>
+                  <p>The <hi>Earth</hi> hath a <hi>Seminarie vertue,</hi> where<g ref="char:EOLhyphen"/>by it doth produce all <hi>Hearbs,</hi> and <hi>Plants,</hi> and other
+<hi>Vegetables:</hi> There is in this <hi>Crime,</hi> a <hi>Se<g ref="char:EOLhyphen"/>minarie</hi> of all <hi>evils</hi> hurtfull to a <hi>State;</hi> and if you conſider the
+<hi>reaſons</hi> of it, it muſt needs be ſo: The <hi>Law</hi> is that which puts a <hi>difference</hi>
+                     <pb n="4" facs="tcp:64185:5"/> betwixt <hi>good</hi> and <hi>evill,</hi> betwixt <hi>juſt</hi> and <hi>unjuſt;</hi> If you take away the
+<hi>Law,</hi> all things will fall into a <hi>confuſion, every man</hi> will become a <hi>Law</hi> to <hi>himſelfe,</hi> which in the <hi>depraved condition</hi> of <hi>humane nature,</hi> muſt needs <hi>produce</hi> many great <hi>enormities: Luſt</hi> will become a <hi>Law,</hi> and
+<hi>Envie</hi> will become a <hi>Law, Covetouſneſſe</hi> and
+<hi>Ambiti<g ref="char:EOLhyphen"/>on</hi> will become <hi>Lawes;</hi> and what <hi>dictates,</hi> what
+<hi>deciſions</hi> ſuch <hi>Laws</hi> will produce, may eaſily be diſcerned in the late <hi>Government</hi> of <hi>Ireland:</hi> The
+<hi>Law</hi> hath a <hi>power</hi> to <hi>prevent,</hi> to
+<hi>reſtraine,</hi> to <hi>repaire evils;</hi> without this all kind of
+<hi>miſchiefs</hi> and <hi>diſtempers</hi> will <hi>break in upon a State.</hi>
+                  </p>
+                  <p>It is the <hi>Law</hi> that doth <hi>intitle</hi> the
+<hi>King</hi> to the <hi>Allegeance</hi> and <hi>ſervice</hi> of his
+<hi>people;</hi> it <hi>intitles</hi> the <hi>people</hi> to the
+<hi>protection</hi> and <hi>juſtice</hi> of the <hi>King. It is God alone who ſubſiſts by himſelfe,</hi> all other things <hi>ſubſiſt</hi> in a
+<hi>mutuall dependence</hi> and <hi>relati<g ref="char:EOLhyphen"/>on.</hi> He was a wiſe man that ſaid, that the King <hi>ſubſiſted</hi> by the field that is
+<hi>tilled:</hi> It is the <hi>labour</hi> of the <hi>people</hi> that ſupports the <hi>Crowne:</hi> If you take away the <hi>protection</hi> of the
+<hi>King,</hi> the <hi>vigour</hi> and <hi>cheerfulneſs</hi> of
+<hi>Allegeance</hi> will be ta<g ref="char:EOLhyphen"/>ken away, though the <hi>Obligation</hi> remaine.</p>
+                  <p>
+                     <pb n="5" facs="tcp:64185:5"/> The <hi>Law</hi> is the <hi>Boundarie,</hi> the <hi>Meaſure</hi> be<g ref="char:EOLhyphen"/>twixt the <hi>Kings Prerogative,</hi> and the
+<hi>Peoples Li<g ref="char:EOLhyphen"/>berty:</hi> Whiles theſe move in their owne <hi>Orbe,</hi> they are a <hi>ſupport</hi> and <hi>ſecurity</hi> to one another; The
+<hi>Prerogative</hi> a <hi>cover</hi> and <hi>defence</hi> to the
+<hi>Li<g ref="char:EOLhyphen"/>berty</hi> of the <hi>people,</hi> and the <hi>people</hi> by their
+<hi>liberty</hi> are enabled to be a <hi>foundation</hi> to the
+<hi>Preroga<g ref="char:EOLhyphen"/>tive;</hi> but if theſe <hi>bounds</hi> be ſo removed, that they enter into <hi>conteſtation</hi> and <hi>conflict,</hi> one of theſe
+<hi>miſchiefes</hi> muſt needs enſue: If the <hi>Pre<g ref="char:EOLhyphen"/>rogative</hi> of the
+<hi>King overwhelm</hi> the <hi>liberty</hi> of the <hi>people,</hi> it will be turned into <hi>Tyrannie;</hi> if <hi>liberty undermine</hi> the
+<hi>Prerogative,</hi> it will grow into <hi>Anarchie.</hi>
+                  </p>
+                  <p>The <hi>Law</hi> is the <hi>ſafeguard,</hi> the
+<hi>cuſtody</hi> of all <hi>private intereſt:</hi> Your <hi>Honours,</hi> your <hi>Lives,</hi> your <hi>Liberties</hi> and <hi>Eſtates</hi> are all in the <hi>keeping</hi> of the <hi>Law;</hi> without this, every man hath a like
+<hi>right</hi> to any thing, and this is the <hi>condition</hi> into which the
+<hi>Iriſh</hi> were brought by the <hi>E.</hi> of <hi>Strafford:</hi> And the
+<hi>reaſon</hi> which he gave for it, hath more <hi>miſchiefe</hi> in it then the thing it ſelfe, <hi>They were a Conquered Nation.</hi> There can<g ref="char:EOLhyphen"/>not be a word more <hi>pregnant,</hi> and <hi>fruitfull</hi>
+                     <pb n="6" facs="tcp:64185:6"/> in <hi>Treaſon,</hi> then that word is: There are few <hi>Nations</hi> in the world that have not been
+<hi>con<g ref="char:EOLhyphen"/>quered;</hi> and no doubt but the <hi>Conquerour</hi> may give what
+<hi>Lawes</hi> he pleaſe to thoſe that are <hi>conquered:</hi> But if the
+<hi>ſucceeding Pacts</hi> and <hi>Agreements</hi> doe not limit and reſtraine that <hi>Right,</hi> what people can be ſecure? <hi>England</hi> hath been <hi>conquered,</hi> and <hi>Wales</hi> hath been <hi>con<g ref="char:EOLhyphen"/>quered,</hi> and by this reaſon will be in little bet<g ref="char:EOLhyphen"/>ter <hi>caſe</hi> then
+<hi>Ireland.</hi> If the <hi>King</hi> by the <hi>Right</hi> of a
+<hi>Conquerour</hi> gives <hi>Lawes</hi> to his <hi>People,</hi> ſhall not the people by the ſame <hi>reaſon</hi> be reſtored to the <hi>Right</hi> of the <hi>conquered,</hi> to recover their <hi>liberty</hi> if they can? What can be more <hi>hurtfull,</hi> more <hi>pernicious</hi> to both, then ſuch
+<hi>Propoſitions</hi> as theſe? And in theſe particulars is determi<g ref="char:EOLhyphen"/>ned the <hi>firſt Conſideration.</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> The <hi>ſecond Conſideration</hi> is this: This <hi>Arbi<g ref="char:EOLhyphen"/>trary power</hi> is <hi>dangerous</hi> to the
+<hi>Kings Perſon,</hi> and <hi>dangerous</hi> to his <hi>Crown:</hi> It is apt to cheriſh <hi>Am<g ref="char:EOLhyphen"/>bition, uſurpation,</hi> and <hi>oppreſsion</hi> in great men, and to beget <hi>ſedition</hi> and <hi>diſcontent</hi> in the
+<hi>Peo<g ref="char:EOLhyphen"/>ple;</hi> and both theſe have beene, and in rea<g ref="char:EOLhyphen"/>ſon muſt ever be
+<hi>cauſes</hi> of great <hi>trouble</hi> and
+<pb n="7" facs="tcp:64185:6"/> 
+                     <hi>alteration</hi> to <hi>Princes</hi> and
+<hi>States.</hi>
+                  </p>
+                  <p>If the <hi>Hiſtories</hi> of thoſe <hi>Eaſterne Countries</hi> be peruſed, where <hi>Princes</hi> order their
+<hi>affaires</hi> ac<g ref="char:EOLhyphen"/>cording to the <hi>miſchievous principles</hi> of the
+<hi>E.</hi> of <hi>Strafford, looſe and abſolved from all Rules of Go<g ref="char:EOLhyphen"/>vernment,</hi> they will be found to be <hi>frequent</hi> in
+<hi>combuſtions,</hi> full of <hi>Maſſacres,</hi> and of the
+<hi>tragicall ends</hi> of <hi>Princes.</hi> If any man ſhall look into our owne <hi>Stories,</hi> in the times when the <hi>Laws</hi> were moſt neglected, he ſhall find them full of <hi>Commotions,</hi> of <hi>Civill diſtempers;</hi> whereby the <hi>Kings</hi> that then reigned, were alwayes kept in <hi>want</hi> and <hi>diſtreſſe;</hi> the people conſumed with
+<hi>Civill wars:</hi> and by ſuch wicked <hi>counſels</hi> as theſe, ſome of our <hi>Princes</hi> have beene brought to ſuch miſerable
+<hi>ends,</hi> as no <hi>ho<g ref="char:EOLhyphen"/>neſt</hi> heart can remember without
+<hi>horrour,</hi> and <hi>earneſt Prayer,</hi> that it may never be ſo againe.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> The third <hi>Conſideration</hi> is this, The <hi>ſubver<g ref="char:EOLhyphen"/>ſion</hi> of the <hi>Lawes;</hi> And this <hi>Arbitrary power,</hi> as it is <hi>dangerous</hi> to the <hi>Kings Perſon</hi> and to his <hi>Crowne,</hi> ſo is it in other reſpects very <hi>prejudiciall</hi>
+                     <pb n="8" facs="tcp:64185:7"/> to his <hi>Majeſty</hi> in his <hi>Honour, Profit,</hi> and <hi>Great<g ref="char:EOLhyphen"/>neſſe;</hi> and yet theſe are the
+<hi>gildings</hi> and <hi>paintings</hi> that are put upon ſuch
+<hi>counſels;</hi> Theſe are for your <hi>Honour,</hi> for your
+<hi>ſervice;</hi> whereas in truth they are contrary to both: But if I ſhall take off this <hi>varniſh,</hi> I hope they ſhall then appeare in their owne <hi>native deformity,</hi> and therefore I deſire to conſider them by theſe <hi>Rules.</hi>
+                  </p>
+                  <p>It cannot be for the <hi>Honour</hi> of a <hi>King,</hi> that his <hi>ſacred Authority</hi> ſhould be uſed in the pra<g ref="char:EOLhyphen"/>ctiſe of
+<hi>injuſtice</hi> and <hi>oppreſsion;</hi> that his <hi>Name</hi> ſhould be applyed to <hi>patronize</hi> ſuch <hi>horrid crimes,</hi> as have beene repreſented in <hi>Evidence</hi> againſt the <hi>Earle of Strafford;</hi> and yet how fre<g ref="char:EOLhyphen"/>quently, how preſumptuouſly his <hi>Commands,</hi> his
+<hi>Letters</hi> have been vouched throughout the courſe of this
+<hi>Defence,</hi> your Lordſhips have heard. When the <hi>Iudges</hi> doe
+<hi>juſtice,</hi> it is the <hi>Kings juſtice,</hi> and this is for his
+<hi>honour,</hi> be<g ref="char:EOLhyphen"/>cauſe he is the <hi>Fountaine</hi> of <hi>juſtice;</hi> but when they doe <hi>injuſtice,</hi> the offence is their owne: But thoſe
+<hi>Officers</hi> and <hi>Miniſters</hi> of the King, who are moſt officious in the exerciſe of this
+<pb n="9" facs="tcp:64185:7"/> 
+                     <hi>Arbitrarie power,</hi> they doe it commonly for their advantage; and when they are queſtio<g ref="char:EOLhyphen"/>ned for it, then they fly to the <hi>Kings intereſt,</hi> to his <hi>Direction:</hi> And truly my Lords, this is a very unequall <hi>diſtribution</hi> for the King, that the
+<hi>diſhonour</hi> of evill <hi>courſes</hi> ſhould be caſt up<g ref="char:EOLhyphen"/>on him, and they to have the advantage.</p>
+                  <p>The <hi>prejudice</hi> which it brings to him in re<g ref="char:EOLhyphen"/>gard of his <hi>profit,</hi> is no leſſe apparent: It de<g ref="char:EOLhyphen"/>prives him of the moſt beneficiall, and moſt certaine <hi>Revenue</hi> of his <hi>Crowne,</hi> that is, the <hi>vo<g ref="char:EOLhyphen"/>luntary aids</hi> and <hi>ſupplies</hi> of his
+<hi>people;</hi> his other <hi>Revenues,</hi> conſiſting of goodly
+<hi>Demeanes,</hi> and great <hi>Manors,</hi> have by <hi>Grants</hi> been alienated from the <hi>Crowne,</hi> and are now exceedingly
+<hi>di<g ref="char:EOLhyphen"/>miniſhed</hi> and <hi>impaired:</hi> But this <hi>Revenue</hi> it can<g ref="char:EOLhyphen"/>not be <hi>ſold,</hi> it cannot be <hi>burdned</hi> with any
+<hi>Pen<g ref="char:EOLhyphen"/>ſions</hi> or <hi>Annuities,</hi> but comes intirely to the
+<hi>Crowne.</hi> It is now almoſt fifteene years ſince his Majeſty had any aſſiſtance from his <hi>people;</hi> and theſe illegall wayes of ſupplying the King were never preſt with more <hi>violence,</hi> and
+<hi>art,</hi> then they have been in this time; and yet I may upon very good
+<hi>grounds</hi> affirm, that
+<pb n="10" facs="tcp:64185:8"/> in the laſt fifteene years of Queen
+<hi>Elizabeth,</hi> ſhe received more by the <hi>Bounty</hi> and
+<hi>Affection</hi> of her <hi>Subjects,</hi> then hath come to His
+<hi>Maje<g ref="char:EOLhyphen"/>ſties Coffers</hi> by all the <hi>inordinate</hi> and <hi>rigorous courſes</hi> which have beene taken. And as thoſe <hi>Supplies</hi> were more beneficiall in the <hi>Receipt</hi> of them, ſo were they like in the
+<hi>uſe</hi> and <hi>im<g ref="char:EOLhyphen"/>ployment</hi> of them.</p>
+                  <p>Another way of <hi>prejudice</hi> to his <hi>Majeſties profit,</hi> is this: Such <hi>Arbitrary courſes</hi> exhauſt the people, and diſable them, when there ſhall be occaſion, to give ſuch plentifull
+<hi>ſupplies,</hi> as otherwiſe they would doe. I ſhall need no other proofe of this, then the <hi>Iriſh Government</hi> under my <hi>L.</hi> of
+<hi>Strafford,</hi> where the <hi>wealth</hi> of the <hi>Kingdome</hi> is ſo
+<hi>conſumed</hi> by thoſe horrible <hi>exactions</hi> and
+<hi>burdens,</hi> that it is thought the <hi>Subſidies</hi> lately granted will amount to little more then halfe the <hi>proportion</hi> of the laſt
+<hi>Sub<g ref="char:EOLhyphen"/>ſidies.</hi> The two former wayes are hurtfull to the <hi>Kings profit,</hi> in that reſpect which they call <hi>Lucrum Ceſſans,</hi> by diminiſhing his re<g ref="char:EOLhyphen"/>ceipts; But there is a third, fuller of
+<hi>miſchiefe,</hi> and it is in that reſpect which they call
+<pb n="11" facs="tcp:64185:8"/> 
+                     <hi>Damnum emergens,</hi> by increaſing his <hi>Disburſe<g ref="char:EOLhyphen"/>ments:</hi> Such <hi>irregular</hi> and <hi>exorbitant attempts</hi> upon the <hi>Libertie</hi> of the <hi>people,</hi> are apt to pro<g ref="char:EOLhyphen"/>duce ſuch miſerable <hi>diſtractions</hi> and <hi>diſtem<g ref="char:EOLhyphen"/>pers,</hi> as will put the <hi>King</hi> and <hi>Kingdome</hi> to ſuch vaſt
+<hi>expences</hi> and <hi>loſſes</hi> in a ſhort time, as will not be recovered in many yeares: Wee need not goe farre to ſeeke a proofe of this, theſe two laſt yeares will be a ſufficient evi<g ref="char:EOLhyphen"/>dence, within which time I aſſure my ſelfe, it may be proved, that more <hi>Treaſure</hi> hath beene waſted, more loſſe ſuſtained by his <hi>Majeſty</hi> and his
+<hi>Subjects,</hi> then was ſpent by Queene <hi>Elizabeth</hi> in all the War of <hi>Tyrone,</hi> and in thoſe many brave <hi>Attempts</hi> againſt the King of <hi>Spaine,</hi> and the royall <hi>aſsiſtance</hi> which ſhe gave to <hi>France,</hi> and the <hi>Low-Countries,</hi> du<g ref="char:EOLhyphen"/>ring all her
+<hi>Reigne.</hi>
+                  </p>
+                  <p>As for <hi>Greatneſſe,</hi> this <hi>Arbitrary power</hi> is apt to hinder and impaire it, not onely at home, but abroad. A
+<hi>Kingdome</hi> is a <hi>ſociety</hi> of men conjoyned under one Government, for the <hi>common good:</hi> The <hi>world</hi> is a ſociety of
+<hi>Kingdomes</hi> and <hi>States.</hi> The <hi>Kings greatneſſe</hi>
+                     <pb n="12" facs="tcp:64185:9"/> conſiſts not onely in his
+<hi>Dominion</hi> over his <hi>Subjects</hi> at home, but in the
+<hi>influence</hi> which he hath upon <hi>States</hi> abroad; That he ſhould be great even among <hi>Kings,</hi> and by his <hi>wiſdome</hi> and
+<hi>authority</hi> ſo to incline and diſpoſe the af<g ref="char:EOLhyphen"/>faires of other
+<hi>States</hi> and <hi>Nations,</hi> and thoſe great <hi>events</hi> which fall out in the <hi>world,</hi> as ſhall be for the good of <hi>Mankind,</hi> and for the peculiar <hi>advantage</hi> of his owne people. This is the moſt
+<hi>glorious,</hi> and <hi>magnificent greatneſs,</hi> to be able to relieve
+<hi>diſtreſsed Princes,</hi> to ſup<g ref="char:EOLhyphen"/>port his owne <hi>friends</hi> and
+<hi>Allies,</hi> to prevent the <hi>ambitious deſignes</hi> of other
+<hi>Kings;</hi> and how much this Kingdome hath been im<g ref="char:EOLhyphen"/>paired in this kinde, by the late <hi>miſchievous counſels</hi> your Lordſhips beſt know, who at a neerer diſtance, and with a more cleare ſight, doe apprehend theſe publique and great affaires, then I can doe. Yet thus much I dare boldly ſay, that if his <hi>Maieſtie</hi> had not with great <hi>wiſdome</hi> and
+<hi>goodneſs</hi> forſaken that way wherein the <hi>Earle</hi> of
+<hi>Strafford</hi> had put him, we ſhould within a ſhort time have been brought into that <hi>miſerable conditi<g ref="char:EOLhyphen"/>on,</hi> as to have been uſeleſſe to our <hi>friends,</hi> con<g ref="char:EOLhyphen"/>temptible
+<pb n="13" facs="tcp:64185:9"/> to our <hi>enemies,</hi> and uncapable of undertaking any great <hi>deſigne</hi> either at home or abroad.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> A fourth Conſideration is, That this Ar<g ref="char:EOLhyphen"/>bitrary, and Tyrannicall Power, which the <hi>E.</hi> of <hi>Strafford</hi> did exerciſe in his own perſon, and to which he did adviſe his Majeſty, is inconſiſtent with the Peace, the Wealth, the Proſperity of a Nation; It is deſtructive to Juſtice, the Mother of Peace; to Induſtry, the ſpring of Wealth; to Valour, which is the active vertue whereby the proſperity of a Nation can onely be procured, confirmed, and inlarged.</p>
+                  <p>It is not only apt to take away Peace, and ſo intangle the Nation with Warres, but doth corrupt Peace, and puts ſuch a malignity into it, as produceth the Effects of warre. We need ſeek no other proofe of this, but the <hi>E.</hi> of <hi>Straffords</hi> Government, where the
+<hi>Iriſh,</hi> both <hi>Nobility</hi> and others, had as little
+<hi>ſecurity</hi> of their <hi>Perſons</hi> or <hi>Eſtates</hi> in this peaceable <hi>time,</hi> as if the <hi>Kingdome</hi> had been under the
+<hi>rage</hi> and <hi>fury</hi> of <hi>warre.</hi>
+                  </p>
+                  <p>
+                     <pb n="14" facs="tcp:64185:10"/> And as for <hi>Induſtrie,</hi> and
+<hi>Valour,</hi> who will take pains for that, which when he hath got<g ref="char:EOLhyphen"/>ten, is not his own? Or who fight for that wherein he hath no other
+<hi>intereſt,</hi> but ſuch as is ſubject to the will of another? The
+<hi>Anci<g ref="char:EOLhyphen"/>ent encouragement</hi> to men that were to defend their
+<hi>Countries</hi> was this, That they were to hazard their <hi>Perſons, pro Aris &amp; Focis,</hi> for their <hi>Religion,</hi> and for their
+<hi>Houſes;</hi> But by this <hi>Arbitrary</hi> way which was practiſed in
+<hi>Ireland,</hi> and counſelled here, no man had any <hi>certainty,</hi> either of <hi>Religion,</hi> or of his <hi>Houſe,</hi> or any thing elſe to be his own; But beſides this, ſuch <hi>Arbitrary</hi> courſes have an ill ope<g ref="char:EOLhyphen"/>ration upon the <hi>courage</hi> of a Nation, by em<g ref="char:EOLhyphen"/>baſing the
+<hi>hearts</hi> of the <hi>people: A ſervile con<g ref="char:EOLhyphen"/>dition doth for the moſt part beget in men a ſlaviſh temper and diſpoſition. Thoſe</hi> that live ſo much under the <hi>Whip</hi> and the <hi>Pillory,</hi> and ſuch
+<hi>ſer<g ref="char:EOLhyphen"/>vile Engines,</hi> as were frequently <hi>uſed</hi> by the
+<hi>E.</hi> of <hi>Strafford,</hi> they may have the <hi>dregges</hi> of
+<hi>valour, ſullenneſſe,</hi> &amp; <hi>ſtubbornneſſe,</hi> which may make them <hi>prone</hi> to <hi>Mutinies,</hi> and <hi>diſcontents;</hi> but thoſe <hi>Noble</hi> and <hi>gallant affections,</hi> which put men on
+<hi>brave Deſignes</hi> and <hi>Attempts</hi> for
+<pb n="15" facs="tcp:64185:10"/> the <hi>preſervation</hi> or
+<hi>inlargement</hi> of a <hi>Kingdome,</hi> they are hardly <hi>capable</hi> of. Shall it be <hi>Treaſon</hi> to <hi>embaſe</hi> the <hi>Kings Coyne,</hi> though but a <hi>piece</hi> of <hi>twelve-pence,</hi> or
+<hi>ſixe-pence,</hi> and muſt it not needs be the <hi>effect</hi> of a greater <hi>Treaſon,</hi> to <hi>em<g ref="char:EOLhyphen"/>baſe</hi> the <hi>ſpirits</hi> of his
+<hi>Subjects,</hi> and to ſet a <hi>ſtamp</hi> and <hi>Character</hi> of
+<hi>ſervitude</hi> upon them, whereby they ſhall be <hi>diſabled</hi> to doe any thing for the ſervice of the <hi>King</hi> or
+<hi>Common<g ref="char:EOLhyphen"/>wealth?</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/> The fift <hi>Conſideration</hi> is this, That the <hi>exer<g ref="char:EOLhyphen"/>ciſe</hi> of this <hi>Arbitrary Government,</hi> in times of <hi>ſudden danger,</hi> by the <hi>invaſion</hi> of an <hi>enemy,</hi> will <hi>diſable</hi> his <hi>Majeſty</hi> to <hi>preſerve himſelfe</hi> and <hi>his Subjects</hi> from that <hi>danger.</hi> This is the onely <hi>pretence</hi> by which the <hi>E.</hi> of <hi>Strafford,</hi> and ſuch other <hi>miſchievous Counſellors</hi> would <hi>induce</hi> his
+<hi>Majeſty</hi> to make <hi>uſe</hi> of it; and if it be <hi>unfit</hi> for ſuch an <hi>occaſion,</hi> I know nothing that can be <hi>alledged</hi> in <hi>maintenance</hi> of it.</p>
+                  <p>When <hi>warre threatens</hi> a <hi>Kingdome</hi> by the
+<hi>comming</hi> of a <hi>forrain Enemy,</hi> it is <hi>no time</hi> then to
+<hi>diſcontent</hi> the <hi>people,</hi> to make them <hi>weary</hi> of the
+<hi>preſent Government,</hi> and more <hi>inclinable</hi>
+                     <pb n="16" facs="tcp:64185:11"/> to a <hi>Change;</hi> The
+<hi>ſupplies</hi> which are to come in this <hi>way,</hi> will be
+<hi>unready, uncertain;</hi> there can be no <hi>aſſurance</hi> of them, no
+<hi>dependence</hi> upon them, either for <hi>time</hi> or <hi>proportion:</hi> And if ſome money be gotten in ſuch a way, the <hi>Diſtractions, Diviſions, Diſtempers,</hi> which this <hi>courſe</hi> is apt to
+<hi>produce,</hi> will be more <hi>prejudici<g ref="char:EOLhyphen"/>all</hi> to the <hi>publique ſafety,</hi> then the <hi>ſupply</hi> can be <hi>advantagious</hi> to it; and of this we have had <hi>ſufficient experience</hi> the <hi>laſt Summer.</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/> The ſixt, That this <hi>crime</hi> of
+<hi>ſubverting</hi> the <hi>Laws,</hi> and <hi>introducing</hi> an
+<hi>Arbitrary</hi> and <hi>Ty<g ref="char:EOLhyphen"/>rannicall Government,</hi> is <hi>contrary</hi> to the <hi>Pact</hi> and <hi>Covenant</hi> betwixt the <hi>King</hi> and his
+<hi>people.</hi> That which was ſpoken of before, was the <hi>legall union</hi> of <hi>Allegeance</hi> and <hi>Protection;</hi> this is a
+<hi>perſonall union</hi> by <hi>mutuall agreement</hi> and
+<hi>ſtipu<g ref="char:EOLhyphen"/>lation, confirmed</hi> by <hi>oath</hi> on both <hi>ſides:</hi> The <hi>King</hi> and his <hi>people</hi> are <hi>obliged</hi> to one another in the <hi>neareſt relations;</hi> He is a <hi>Father,</hi> and a
+<hi>childe</hi> is called in <hi>Law, Pars Patris:</hi> Hee is the
+<hi>Husband</hi> of the <hi>Common-wealth,</hi> they have the <hi>ſame intereſts,</hi> they are <hi>inſeparable</hi> in their <hi>condition,</hi> be it <hi>good</hi> or <hi>evill;</hi> He is the
+<pb n="17" facs="tcp:64185:11"/> 
+                     <hi>Head,</hi> they are the <hi>Body;</hi> there is ſuch an <hi>incor<g ref="char:EOLhyphen"/>poration</hi> as cannot be diſſolved without the <hi>deſtruction</hi> of both.</p>
+                  <p>When <hi>Iuſtice Thorpe,</hi> in <hi>Edw.</hi> the
+<hi>thirds time,</hi> was by the <hi>Parliament condemned</hi> to
+<hi>death</hi> for <hi>Bribery,</hi> the <hi>reaſon</hi> of that Judgement is given, becauſe he had <hi>broken</hi> the <hi>Kings Oath,</hi> not that he had broken his own <hi>oath,</hi> but that he had broken the <hi>Kings oath,</hi> that <hi>ſolemne</hi> and <hi>great obligation,</hi> which is the
+<hi>ſecurity</hi> of the <hi>whole Kingdome:</hi> If for a Judge to take a ſmall <hi>ſumme</hi> in a private cauſe, was adjudged <hi>Capi<g ref="char:EOLhyphen"/>tall,</hi> how much greater was this <hi>offence,</hi> whereby the <hi>E.</hi> of
+<hi>Strafford</hi> hath broken the <hi>Kings Oath</hi> in the whole
+<hi>courſe</hi> of his <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> in <hi>Ireland,</hi> to the
+<hi>prejudice</hi> of ſo many of his <hi>Majeſties Subjects,</hi> in their
+<hi>Lives, Liberties,</hi> and <hi>Eſtates,</hi> and to the danger of all the reſt?</p>
+                  <p>The <hi>Doctrine</hi> of the <hi>Papiſts, Fides non eſt ſer<g ref="char:EOLhyphen"/>vanda cum Haereticis,</hi> is an <hi>abominable Doctrine:</hi> yet that other Tenet more <hi>peculiar</hi> to the <hi>Ieſu<g ref="char:EOLhyphen"/>ites</hi> is more
+<hi>pernicious,</hi> whereby <hi>Subjects</hi> are <hi>diſcharged</hi> from their <hi>Oath</hi> of <hi>Allegeance</hi> to
+<pb n="18" facs="tcp:64185:12"/> their <hi>Prince</hi> whenſoever the
+<hi>Pope</hi> pleaſeth; This may be added to make the <hi>third</hi> no leſſe <hi>miſchievous</hi> and <hi>deſtructive</hi> to <hi>humane ſociety,</hi> then either of the reſt; That the King is not bound by that
+<hi>Oath</hi> which he hath taken to <hi>obſerve</hi> the <hi>Laws</hi> of the <hi>Kingdome,</hi> but may when he ſees <hi>cauſe,</hi> lay
+<hi>Taxes</hi> and <hi>burdens</hi> up<g ref="char:EOLhyphen"/>on them without their
+<hi>conſent,</hi> contrary to the <hi>Laws</hi> and <hi>Liberties</hi> of the
+<hi>Kingdome.</hi> This hath been <hi>preached</hi> and <hi>publiſhed</hi> by divers; And this is that which hath been <hi>practiſed</hi> in
+<hi>Ireland</hi> by the <hi>E.</hi> of <hi>Strafford,</hi> in his
+<hi>Govern<g ref="char:EOLhyphen"/>ment there,</hi> and indeavoured to be brought into
+<hi>England,</hi> by his <hi>Counſell here.</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/> The ſeventh is this; It is an
+<hi>offence</hi> that is contrary to the <hi>end</hi> of <hi>Government;</hi> The <hi>end</hi> of <hi>Government</hi> was to prevent <hi>oppreſsions,</hi> to limit and reſtrain the exceſſive power and violence of <hi>great men,</hi> to <hi>open</hi> the paſſages of <hi>Iuſtice</hi> with
+<hi>indifferency</hi> towards all; This <hi>Arbitrary</hi> power is apt to
+<hi>induce</hi> and incourage all kind of <hi>inſolencies.</hi>
+                  </p>
+                  <p>Another <hi>end</hi> of <hi>Government</hi> is to
+<hi>preſerve</hi> men in their <hi>eſtates,</hi> to <hi>ſecure</hi> them in their
+<pb n="19" facs="tcp:64185:12"/> Lives and Liberties; but if this Deſigne had taken effect, and could have been <hi>ſetled</hi> in <hi>England,</hi> as it was <hi>practiſed</hi> in <hi>Ireland,</hi> no man would have had more certainty in his own, then power would have allowed him: But theſe two have been ſpoken of before, there are two behind more <hi>important,</hi> which have not yet been touched.</p>
+                  <p>It is the <hi>end</hi> of <hi>Government,</hi> that
+<hi>vertue</hi> ſhould be <hi>cheriſht, vice ſuppreſt;</hi> but where this <hi>Arbitrary</hi> and <hi>unlimited power</hi> is ſet up, a way is open not onely for the <hi>ſecurity,</hi> but for the <hi>advancement</hi> and
+<hi>incouragement</hi> of evill; Such men as are apteſt for the execution and maintenance of this Power, are onely capa<g ref="char:EOLhyphen"/>ble of preferment; and others who will not be <hi>inſtruments</hi> of any <hi>unjuſt commands,</hi> who make a <hi>conſcience</hi> to doe nothing againſt the <hi>Laws</hi> of the
+<hi>Kingdome,</hi> and <hi>Liberties</hi> of the <hi>Sub<g ref="char:EOLhyphen"/>ject,</hi> are not onely not <hi>paſſable</hi> for <hi>imployment,</hi> but <hi>ſubject</hi> to much <hi>jealouſie</hi> and <hi>danger.</hi>
+                  </p>
+                  <p>It is the <hi>end</hi> of <hi>Government,</hi> that all
+<hi>accidents</hi> and <hi>events,</hi> all <hi>Counſels</hi> and
+<hi>Deſignes</hi> ſhould be improved to the <hi>publique good:</hi> But this <hi>Arbi<g ref="char:EOLhyphen"/>trary</hi>
+                     <pb n="20" facs="tcp:64185:13"/> 
+                     <hi>Power</hi> is apt to
+<hi>diſpoſe</hi> all to the <hi>mainte<g ref="char:EOLhyphen"/>nance</hi> of it ſelf. The
+<hi>wiſdome</hi> of the <hi>Councell-Table,</hi> the <hi>Authority</hi> of the <hi>Courts</hi> of Juſtice, the <hi>induſtry</hi> of all the
+<hi>Officers</hi> of the <hi>Crown</hi> have been moſt carefully
+<hi>exerciſed</hi> in this; the <hi>Learning</hi> of our <hi>Divines,</hi> the <hi>Iuriſdiction</hi> of our <hi>Biſhops</hi> have been moulded and diſpoſed to the ſame <hi>effect,</hi> which though it were begun before the <hi>E.</hi> of <hi>Straffords Imployment,</hi> yet it hath beene exceedingly <hi>furthered</hi> and <hi>ad<g ref="char:EOLhyphen"/>vanced</hi> by him.</p>
+                  <p>Under this <hi>colour</hi> and <hi>pretence</hi> of
+<hi>maintai<g ref="char:EOLhyphen"/>ning</hi> the <hi>Kings Power</hi> and <hi>Prerogative</hi> many
+<hi>dangerous practiſes</hi> againſt the <hi>peace</hi> and
+<hi>ſafety</hi> of this <hi>Kingdome</hi> have been undertaken and promoted. The <hi>increaſe</hi> of <hi>Popery,</hi> and the favours and incouragement of <hi>Papiſts</hi> have been, and ſtill are a great grievance and dan<g ref="char:EOLhyphen"/>ger to the <hi>Kingdome:</hi> The <hi>Innovations</hi> in <hi>mat<g ref="char:EOLhyphen"/>ters</hi> of
+<hi>Religion,</hi> the <hi>uſurpations</hi> of the <hi>Clergie,</hi> the manifold burdens and taxations upon the people, have been a great cauſe of our preſent <hi>diſtempers</hi> and <hi>diſorders;</hi> and yet thoſe who have been chiefe <hi>Furtherers</hi> and <hi>Actors</hi> of
+<pb n="21" facs="tcp:64185:13"/> ſuch Miſchiefes, have had their Credit and Authority from this, That they were for<g ref="char:EOLhyphen"/>ward to <hi>maintain</hi> this Power. The E. of <hi>Strafford</hi> had the firſt riſe of his greatneſſe from this, and in his <hi>Apologie</hi> and <hi>Defence,</hi> as your <hi>Lordſhips</hi> have heard, this hath had a maine part.</p>
+                  <p>The <hi>Royall Power,</hi> and <hi>Majeſty</hi> of
+<hi>Kings,</hi> is moſt glorious in the <hi>proſperity</hi> and
+<hi>happi<g ref="char:EOLhyphen"/>neſſe</hi> of the people; The perfection of all things conſiſts in the <hi>end</hi> for which they were ordained, <hi>God</hi> onely is his own <hi>end,</hi> all other <hi>things</hi> have a further
+<hi>end</hi> beyond <hi>themſelves,</hi> in attaining whereof their own happineſſe conſiſts: If the <hi>means</hi> and the <hi>end</hi> be ſet in <hi>oppoſition</hi> to one another, it muſt needs <hi>cauſe</hi> an <hi>impotency</hi> and <hi>defect</hi> of <hi>both.</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="8"/> The eight <hi>Conſideration</hi> is, The
+<hi>vanity</hi> and <hi>abſurdity</hi> of thoſe <hi>excuſes</hi> and
+<hi>juſtifications</hi> which he made for himſelf, whereof divers
+<hi>particulars</hi> have been mentioned in the <hi>courſe</hi> of his
+<hi>Defence.</hi>
+                  </p>
+                  <p n="1">
+                     <pb n="22" facs="tcp:64185:14"/> 1. That he is a <hi>Counſellor,</hi> and might not be <hi>queſtioned</hi> for any thing which he adviſed according to his <hi>conſcience;</hi> The <hi>ground</hi> is <hi>true,</hi> there is a
+<hi>liberty</hi> belongs to <hi>Counſellors,</hi> and nothing corrupts Counſels more then <hi>fear; He</hi> that will have the priviledge of a
+<hi>Counſellor,</hi> muſt keep within the juſt bounds of a
+<hi>Counſellor;</hi> thoſe <hi>matters</hi> are the proper
+<hi>ſubjects</hi> of <hi>Counſell,</hi> which in their times and occaſions, may be good or beneficiall to the <hi>King</hi> or
+<hi>Common-wealth;</hi> But ſuch <hi>Treaſons</hi> as theſe, the
+<hi>ſubverſion</hi> of the <hi>Laws, violation</hi> of <hi>Liberties,</hi> they can never be good, or juſtifi<g ref="char:EOLhyphen"/>able by any <hi>circumſtance,</hi> or
+<hi>occaſion;</hi> and therefore his being a <hi>Counſellor,</hi> makes his fault much more hainous, as being commit<g ref="char:EOLhyphen"/>ted againſt a greater
+<hi>Truſt,</hi> and in a way of much miſchiefe and danger, leſt his Majeſties conſcience and judgement (upon which the whole courſe and frame of his <hi>Government</hi> do much depend) ſhould be poyſoned and infected with ſuch wicked principles and de<g ref="char:EOLhyphen"/>ſignes: And this he hath endeavoured to doe, which by all <hi>Lawes,</hi> and in all <hi>times</hi> hath in this
+<hi>Kingdome</hi> beene reckoned
+<pb n="23" facs="tcp:64185:14"/> a <hi>Crime</hi> of an <hi>high Nature.</hi>
+                  </p>
+                  <p n="2">2. He labours to <hi>intereſt</hi> your Lordſhips in his <hi>cauſe,</hi> by alledging, It may be <hi>dangerous</hi> to your ſelves, and your <hi>Poſterity,</hi> who by your <hi>birth</hi> are fitteſt to be near his Majeſty, in places of <hi>Truſt</hi> and
+<hi>Authority,</hi> if you ſhould be ſubject to be <hi>queſtioned</hi> for <hi>matters</hi> delive<g ref="char:EOLhyphen"/>red in <hi>Counſell.</hi> To this was anſwered, that it was <hi>hoped</hi> their Lordſhips would rather <hi>la<g ref="char:EOLhyphen"/>bour</hi> to ſecure themſelves, and their poſterity, in the exerciſe of their
+<hi>vertues,</hi> then of their <hi>vices,</hi> that ſo they might together with their own <hi>honour</hi> and <hi>greatneſſe,</hi> preſerve the
+<hi>honour</hi> and <hi>greatneſſe,</hi> both of the <hi>King</hi> and
+<hi>Kingdome.</hi>
+                  </p>
+                  <p n="3">3. Another <hi>excuſe</hi> was this, that whatſo<g ref="char:EOLhyphen"/>ever he hath <hi>ſpoken</hi> was out of a <hi>good intenti<g ref="char:EOLhyphen"/>on;</hi> Sometimes <hi>good</hi> and <hi>evill, truth</hi> and <hi>fal<g ref="char:EOLhyphen"/>ſhood</hi> lie ſo near together, that they are hardly to be <hi>diſtinguiſhed:</hi> Matters <hi>hurtfull</hi> and <hi>dan<g ref="char:EOLhyphen"/>gerous</hi> may be accompanied with ſuch <hi>cir<g ref="char:EOLhyphen"/>cumſtances</hi> as may make it appeare uſefull and convenient, and in all ſuch <hi>caſes, good intenti<g ref="char:EOLhyphen"/>ons</hi> will juſtifie <hi>evill Counſell;</hi> But where the
+<pb n="24" facs="tcp:64185:15"/> matters propounded are <hi>evill</hi> in their own <hi>na<g ref="char:EOLhyphen"/>ture,</hi> ſuch as the <hi>matters</hi> are wherewith the
+<hi>E.</hi> of <hi>Strafford</hi> is charged, to <hi>break</hi> a <hi>publique faith,</hi> to <hi>ſubvert Laws</hi> and <hi>Government,</hi> they can never be juſtified by any intentions, how ſpecious, or good ſoever they be pretended.</p>
+                  <p n="4">4. He <hi>alledgeth</hi> it was a time of great
+<hi>neceſsity</hi> and <hi>danger,</hi> when ſuch counſels were
+<hi>neceſſary</hi> for preſervation of the <hi>State. Ne<g ref="char:EOLhyphen"/>ceſsity</hi> hath been ſpoken of before, as it relates to the Cauſe; now it is conſidered as it relates to the Perſon; if there were any neceſſity, it was of his own making; he by his <hi>evil</hi> coun<g ref="char:EOLhyphen"/>ſell had brought the
+<hi>King</hi> into a neceſſity, and by no Rules of <hi>Iuſtice,</hi> can be <hi>allowed</hi> to gain this advantage by his own fault, as to make that a
+<hi>ground</hi> of his juſtification, which is a great part of his offence.</p>
+                  <p n="5">5. He hath often <hi>inſinuated</hi> this, That it was for his Majeſties ſervice in <hi>maintenance</hi> of that Soveraign
+<hi>Power</hi> with which he is <hi>in<g ref="char:EOLhyphen"/>truſted</hi> by <hi>God</hi> for the
+<hi>good</hi> of his people. The Anſwer is this, No doubt but that Soveraign
+<pb n="25" facs="tcp:64185:15"/> Power wherewith his Majeſty is
+<hi>intruſted</hi> for the publique good, hath many glorious
+<hi>effects,</hi> the better to inable him thereunto; But without doubt this is none of them, That by his own will he may lay any <hi>Taxe</hi> or
+<hi>Impoſi<g ref="char:EOLhyphen"/>tion</hi> upon his people without their conſent in
+<hi>Parliament.</hi> This hath now been five times adjudged by both
+<hi>Houſes:</hi> In the Caſe of the <hi>Loanes,</hi> In condemning the
+<hi>Commiſsion</hi> of <hi>Exciſe,</hi> In the Reſolution upon the
+<hi>Sa<g ref="char:EOLhyphen"/>ving</hi> offered to be added to the <hi>Petition</hi> of
+<hi>Right,</hi> In the ſentence againſt <hi>Manwaring,</hi> and now lately, In condemning the <hi>Ship-money;</hi> And if the Soveraigne Power of the King can produce no ſuch <hi>effect</hi> as this, the <hi>Allegation</hi> of it is an Aggravation, and no Diminution of his offence, becauſe thereby he doth labour to intereſt the King againſt the juſt grievance and complaint of the People.</p>
+                  <p n="6">6. This <hi>Counſell</hi> was propounded with divers
+<hi>limitations,</hi> and <hi>Proviſions;</hi> for ſecu<g ref="char:EOLhyphen"/>ring and repairing the <hi>liberty</hi> of the <hi>people.</hi> This implies a
+<hi>contradiction</hi> to maintain an <hi>Arbitrary</hi> &amp; abſolute Power, and yet to reſtrain it with
+<pb n="26" facs="tcp:64185:16"/> 
+                     <hi>limitations,</hi> and
+<hi>proviſions;</hi> for even thoſe <hi>limi<g ref="char:EOLhyphen"/>tations</hi> and
+<hi>proviſions</hi> will be ſubject to the ſame abſolute
+<hi>Power,</hi> and to be diſpenſed in ſuch manner, and at ſuch time, as it ſelf ſhall determine; let the <hi>grievances</hi> and
+<hi>oppreſsions</hi> be never ſo heavy, the <hi>Subject</hi> is left without all remedy, but at his Majeſties own pleaſure.</p>
+                  <p n="7">7. He alledgeth, they were but <hi>words,</hi> and no
+<hi>effect</hi> followed: This needs no anſwer, but that the <hi>miſerable diſtempers</hi> into which he hath brought all the three Kingdomes, will be evidence ſufficient that his wicked <hi>Coun<g ref="char:EOLhyphen"/>ſels</hi> have had ſuch
+<hi>miſchievous</hi> effects within theſe two or three laſt years, that many years peace will hardly repaire thoſe loſſes, and other great miſchiefes which the <hi>Common-wealth</hi> hath ſuſtained.</p>
+                  <p>Theſe excuſes have been collected out of the ſeverall parts of his <hi>Defence;</hi> perchance ſome others are omitted, which I doubt not have been anſwered by ſome of my Col<g ref="char:EOLhyphen"/>legues, and are of no importance, either to perplex or to hinder your Lordſhips judge<g ref="char:EOLhyphen"/>ment,
+<pb n="27" facs="tcp:64185:16"/> touching the hainouſneſſe of this Crime.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="9"/> The ninth <hi>Conſideration</hi> is this, That if this be <hi>Treaſon,</hi> in the nature of it, it doth ex<g ref="char:EOLhyphen"/>ceed all other <hi>Treaſons</hi> in this, That in the Deſign, and endeavour of the Author, it was to be a <hi>conſtant</hi> and a <hi>permanent Treaſon;</hi> other Treaſons are tranſient, as being confinde within thoſe particular
+<hi>actions</hi> and <hi>proportions</hi> wherein they did conſiſt, and thoſe being paſt, the <hi>Treaſon</hi> ceaſeth.</p>
+                  <p>The <hi>Powder-Treaſon</hi> was full of horror and malignity, yet it is paſt many years ſince; The <hi>murder</hi> of that
+<hi>Magnanimous</hi> and <hi>glorious King, Henry the fourth</hi> of
+<hi>France,</hi> was a great and horrid <hi>Treaſon;</hi> And ſo were thoſe manifold attempts againſt Qu. <hi>Elizabeth</hi> of bleſſed me<g ref="char:EOLhyphen"/>mory; but they are long ſince paſt, the <hi>Dete<g ref="char:EOLhyphen"/>ſtation</hi> of them only remains in <hi>Hiſtories,</hi> and in the <hi>minds</hi> of men; and will ever remain; But this <hi>Treaſon,</hi> if it had taken effect, was to be a ſtanding, perpetuall <hi>Treaſon,</hi> which would have been in
+<hi>continuall act,</hi> not <hi>determi<g ref="char:EOLhyphen"/>ned</hi> within one <hi>time</hi> or
+<hi>age,</hi> but <hi>tranſmitted</hi> to <hi>Poſterity,</hi> even from
+<hi>generation</hi> to <hi>generation.</hi>
+                  </p>
+                  <p>
+                     <pb n="28" facs="tcp:64185:17"/> 
+                     <milestone type="tcpmilestone" unit="unspecified" n="10"/> The tenth
+<hi>Conſideration</hi> is this, That as it is a Crime odious in the nature of it, ſo it is odi<g ref="char:EOLhyphen"/>ous in the judgement and eſtimation of the <hi>Law;</hi> To alter the ſetled <hi>frame</hi> and <hi>conſtitution</hi> of
+<hi>Government,</hi> is <hi>Treaſon</hi> in any <hi>eſtate;</hi> The
+<hi>Laws</hi> whereby all other parts of a Kingdome are preſerved, ſhould be very vain and defe<g ref="char:EOLhyphen"/>ctive, if they had not a <hi>power</hi> to ſecure and pre<g ref="char:EOLhyphen"/>ſerve <hi>themſelves.</hi>
+                  </p>
+                  <p>The <hi>forfeitures</hi> inflicted for <hi>Treaſon</hi> by our Law, are of <hi>Life, Honour,</hi> and <hi>Eſtate,</hi> even all that can be <hi>forfeited,</hi> and this Priſoner having committed ſo many Treaſons, al<g ref="char:EOLhyphen"/>though he ſhould pay all theſe <hi>forfeitures,</hi> will be ſtill a Debtor to the <hi>Common-wealth:</hi> Nothing can be more equall then that he ſhould periſh by the Juſtice of that Law which he would have ſubverted; Neither wil this be a new way of bloud; There are marks enough to trace this Law to the very origi<g ref="char:EOLhyphen"/>nall of this Kingdome: And if it hath not been put in execution, as he alledgeth, this 240. years, it was not for want of Law, but that all that time hath not bred a man bold enough to commit ſuch Crimes as theſe;
+<pb n="29" facs="tcp:64185:17"/> which is a <hi>circumſtance</hi> much aggravating his offence, and making him no whit leſſe liable to puniſhment, becauſe he is the onely man that in ſo long a time hath ventured upon ſuch a <hi>Treaſon</hi> as this.</p>
+                  <p>It belongs to the charge of another to make it appear to your Lordſhips, that the Crimes and Offences proved againſt the <hi>Earle</hi> of <hi>Strafford,</hi> are <hi>High Treaſon</hi> by the Lawes and Statutes of this Realm, whoſe learning and other abilities are much better for that ſervice. But for the time and manner of performing this, we are to reſort to the <hi>Direction</hi> of the <hi>Houſe of Commons,</hi> having in this which is al<g ref="char:EOLhyphen"/>ready done, diſpatched all thoſe inſtructions which wee have received; and concerning further proceedings, for clearing all Queſti<g ref="char:EOLhyphen"/>ons and Objections in Law, your Lordſhips will hear from the <hi>Houſe</hi> of
+<hi>Commons</hi> in con<g ref="char:EOLhyphen"/>venient time.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:64185:18"/>
+                  <pb facs="tcp:64185:18"/>
+                  <p>AN ARGVMENT of Law concerning the Bill of ATTAINDER of
+<hi>HIGH-TREASON</hi> of THOMAS Earle of <hi>Strafford:</hi> At a Conference in a Committe of both Houſes of Parliament.</p>
+                  <p>By M<hi rend="sup">r.</hi> S<hi rend="sup">t.</hi> JOHN his <hi>Majeſties</hi> Solicitor GENERALL.</p>
+                  <p>Publiſhed by order of the Commons Houſe.</p>
+                  <figure/>
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>G. M.</hi> for <hi>John Bartlet</hi> at the ſigne of the gilt Cup, neare S. <hi>Auſtins-gate</hi> in <hi>Pauls</hi> Church-yard, 1641.</p>
+               </div>
+            </front>
+            <body>
+               <div type="argument">
+                  <pb facs="tcp:64185:19" rendition="simple:additions"/>
+                  <pb n="1" facs="tcp:64185:19"/>
+                  <head>M<hi rend="sup">r.</hi> S<hi rend="sup">t.</hi> IOHN's Argument.</head>
+                  <opener>
+                     <salute>My Lords,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>HE Knights, Citizens, and Burgeſſes of the Commons Houſe of Parliament, have paſ<g ref="char:EOLhyphen"/>ſed a Bill for the at<g ref="char:EOLhyphen"/>tainting of
+<hi>Thomas</hi> Earle of <hi>Strafford</hi> of High-Treaſon. The Bill hath been tranſmitted from them to your Lordſhips. It concernes not him alone, but your Lordſhips and the Commons too, though in different Reſpects.</p>
+                  <p>
+                     <pb n="2" facs="tcp:64185:20"/> It is to make him as miſerable a man, as man or Law can make him.</p>
+                  <p>Not loſſe of life alone, but with that, of honour, name, poſterity, and eſtate, Of all thats deare to all.</p>
+                  <p>To uſe his owne expreſſion, an eradica<g ref="char:EOLhyphen"/>tion of him both root and branch, as an <hi>Achan,</hi> a troubler of the State, as an exe<g ref="char:EOLhyphen"/>crable, as an accurſed thing.</p>
+                  <p>This Bill as it concernes his Lordſhip the higheſt that can be in the penall part, ſo doth it on the other ſide as highly concerne your Lorſhips and the Commons in that which ought to be the tendreſt, the Judicato<g ref="char:EOLhyphen"/>ry within, that that judge not them who judge him: And in that which is moſt ſa<g ref="char:EOLhyphen"/>cred amongſt men, the publike Juſtice of the Kingdome.</p>
+                  <p>The Kingdome is to be accounted unto for the loſſe of the meaneſt member, much more for one ſo neare the head.</p>
+                  <p>The Commons are concerned in their Account for what is done, your Lordſhips in that which is to be done.</p>
+                  <p>The Buſineſſe therefore of the preſent Conference, is to acquaint your Lordſhips with thoſe things that ſatisfied the Com<g ref="char:EOLhyphen"/>mons in paſſing of this Bill, ſuch of them as have come within my capacity, and that I can remember, I am Commanded from the Commons at this time to preſent unto your Lordſhips.</p>
+                  <p>
+                     <pb n="3" facs="tcp:64185:20"/> My Lords, in Judgements of greateſt moment, there are but two waies for ſatis<g ref="char:EOLhyphen"/>fying thoſe that are to give them, Either the <hi>Lex lata,</hi> the Law already eſtabliſhed, Or els the uſe of the ſame power for making new Lawes, whereby the old at firſt recei<g ref="char:EOLhyphen"/>ved life.</p>
+                  <p>In the firſt conſideration, of the ſetled Lawes; In the degrees of puniſhment the poſitive Law received by generall conſent, and for the common good is ſufficient to ſa<g ref="char:EOLhyphen"/>tisfie the Conſcience of the Judge in giving Judgement according to them.</p>
+                  <p>In ſeverall Countries there is not the ſame meaſure of puniſhment for one and the ſame offence. Wilfull murder in <hi>Ireland</hi> is Treaſon, and ſo is the wilfull burning of a houſe or ſtacke of Corne. In the Iſle of <hi>Man,</hi> it's fellony to ſteale a Hen, but not to ſteale a Horſe; and yet the Judge in <hi>Ireland</hi> hath as juſt a ground to give Judgement of high Treaſon in thoſe Caſes there, as here to give Judgement onely of Fellony, and in the Iſle of <hi>Man</hi> of Felony for the Hen, as heere of pettie Larceny.</p>
+                  <p>My Lords, in the other conſideration of uſing the Supreame power, the ſame Law gives power to the Parliament to make new Lawes, that enables the inferiour Court to judge according to the old. The rule that guides the conſcience of the Inferior Court is from without, the preſcripts of the Parlia<g ref="char:EOLhyphen"/>ment
+<pb n="4" facs="tcp:64185:21"/> and of the Common Law; in the other the rule is from within; That <hi>ſalus populi</hi> be concerned; That therebe no wil<g ref="char:EOLhyphen"/>full oppreſſion of any the fellow members, that no more blood be taken then what is neceſſary for the Cure, the Lawes and Cuſtomes of the Realme as well enable the exerciſe of this, as of the ordinary and Ju<g ref="char:EOLhyphen"/>diciall power.</p>
+                  <p>My Lords, what hath beene ſaid is be<g ref="char:EOLhyphen"/>cauſe that this proceeding of the Com<g ref="char:EOLhyphen"/>mons by way of Bill implies the uſe of the meere
+<hi>Legis-Lative</hi> power, in reſpect new Lawes are for the moſt part paſt by Bill.</p>
+                  <p>This, my Lords, though juſt and Legall, and therefore not wholy excluded, yet it was not the only ground that put the Com<g ref="char:EOLhyphen"/>mons upon the Bill, they did not intend to make a new Treaſon, and to condemne my Lord of
+<hi>Strafford</hi> for it, they had in it other Conſiderations likewiſe, which were to this effect.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, the Commons knew that in all former ages, if doubts of Law aroſe upon caſes of great and generall Concernement; the Parliament was uſually conſulted with<g ref="char:EOLhyphen"/>all for reſolution, which is the reaſon that many Acts of Parliament are onely decla<g ref="char:EOLhyphen"/>rative of the Old Law, not introductive of a new, as the great Charter of our Liber<g ref="char:EOLhyphen"/>ties;
+<pb n="5" facs="tcp:64185:21"/> the Statute of the five and twentieth yeare of <hi>Edward</hi> the third, of Treaſons; the Statute of the Prerogative, and of late the petition of right. If the Law were doubtfull in this Caſe, they conceived the Parliament (where the old may be altered, and new Lawes made) the fitteſt Iudge to cleare this doubt.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, my Lords, they proceeded this way to out thoſe ſcruples and delaies which through diſuſe of proceedings of this nature might have riſen in the manner and way of proceeding, ſince the Statute of the firſt of <hi>Henery</hi> the fourth, the ſeventeenth Chapter, and more fully in the Roll, num<g ref="char:EOLhyphen"/>ber 144. The proceedings in Parliament have uſually beene upon an Inditement firſt found, though in Caſes of Treaſon par<g ref="char:EOLhyphen"/>ticularly mentioned in the Statute of the five and twentieth yeare of <hi>Edward</hi> the third, which had not been done in this Caſe: Doubts likewiſe might riſe for Treaſons, not particularly mentioned in the Statute of 25. <hi>Edw.</hi> 3. whether the declaratory power of Parliament be taken away, and if not taken away, in what manner they were to be made and by whom. They finde not any Attainders of Treaſon in Parliament for neare this 200 yeares, but by this way of Bill. And againe, they knew that whatſoe<g ref="char:EOLhyphen"/>ver could be done any other way, it might be done by this.</p>
+                  <p>
+                     <pb n="6" facs="tcp:64185:22"/> Thirdly, in reſpect of the proofes and depoſitions that have beene made againſt him, for firſt, although they knew not but that the whole Evidence which hath beene given at the Barre, in every part of it is ſuffi<g ref="char:EOLhyphen"/>ciently comprehended within the Charge, yet if therein they ſhould be miſtaken, if it ſhould prove otherwiſe, uſe may juſtly be made of ſuch Evidence in this way of Bill, wherein ſo as Evidence be given in, it's no way requiſite that there ſhould have beene any Articles or Charge at all. And ſo in the Caſe of double, Teſtimony upon the Sta<g ref="char:EOLhyphen"/>tute of the firſt of <hi>Edward</hi> the ſixt, whether one direct witneſſe with others to Circum<g ref="char:EOLhyphen"/>ſtances, had been ſingle or double teſtimony; and although ſingle Teſtimony might be ſufficient to ſatisfie private Conſciences, yet how farre it would have beene ſatisfactory in a judiciall way where formes of Law are more to be ſtood upon was not ſo cleare, whereas in this way of Bill private ſatis<g ref="char:EOLhyphen"/>faction to each mans Conſcience is ſuffici<g ref="char:EOLhyphen"/>ent, although no Evidence had beene given in at all.</p>
+                  <p>My Lords, the proceeding by way of Bill, it was not to decline your Lordſhips Iuſtice in the judiciall way; In theſe Exegen<g ref="char:EOLhyphen"/>cies of the State and Kingdome, it was to husband time by ſilencing thoſe doubts, they conceived it the ſpeedieſt and the fureſt way.</p>
+                  <p>
+                     <pb n="7" facs="tcp:64185:22"/> My Lords. Theſe are in effect, the things the Commons tooke into their Conſide<g ref="char:EOLhyphen"/>ration, in reſpect of the manner, and way of proceeding againſt the Earle. In the next place I am to declare unto your Lord<g ref="char:EOLhyphen"/>ſhips, the things they tooke into their conſideration, in reſpect of the matter and merits of the Cauſe, They are compre<g ref="char:EOLhyphen"/>hended within theſe 6. heads.</p>
+                  <p n="1">1. That there is a Treaſon within the Sta<g ref="char:EOLhyphen"/>tute of 25.
+<hi>E.</hi> 3. by Levying of warre upon the matter of the fifteenth Article.</p>
+                  <p n="2">2. If not by actuall Levying of warre, yet by adviſing and declaring his intention of warre, and that by <hi>Savils</hi> warrant, and the advice of bringing over the Iriſh Army, upon the matter in the 23. Article, The intending of a Warre if not within the Clauſe of Levying Warre in the Statute of 25. <hi>E.</hi> 3. yet within the firſt Treaſon of com<g ref="char:EOLhyphen"/>paſſing the death of the King.</p>
+                  <p n="3">3. If neither of theſe two ſingle Acts be within the Statute of 25. <hi>E.</hi> 3. yet upon put<g ref="char:EOLhyphen"/>ting all together, which hath beene proved againſt him, That ther's a Treaſon within the firſt clauſe of compaſſing the death of the King.</p>
+                  <p>
+                     <hi>Et ſi non proſunt ſingula juncta juvant.</hi>
+                  </p>
+                  <p n="4">4. That he hath feſſed and laid Soul<g ref="char:EOLhyphen"/>diers upon the Subjects of <hi>Ireland</hi> againſt their will, and at their Charge, within the <hi>Iriſh</hi> Statute, of the eighteenth yeare of
+<pb n="8" facs="tcp:64185:23"/> 
+                     <hi>Henry</hi> the ſixt. That both perſon and thing are within the Statute, That the Sta<g ref="char:EOLhyphen"/>tute remaines in force to this day, That the Parliament here hath Cognizance of it, And that even in the ordinary way of Ju<g ref="char:EOLhyphen"/>dicature, that if there be a Treaſon, and a Traitor, that the want of juriſdiction in the Judicall way, may juſtly be ſupplied by Bill.</p>
+                  <p n="5">5. That his endeavouring to ſubvert the fundamentall Lawes and Governement of the Realmes of <hi>England</hi> and <hi>Ireland,</hi> and inſtead thereof, to introduce a tyranicall Governement againſt Law, is Treaſon by the Common Law. That Treaſons at the Common Law are not taken away by the Statutes of 25. <hi>E.</hi> 3. 1. <hi>H.</hi> 4. <hi>c.</hi> 10.
+1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>Mar. c.</hi> 1. nor any of them.</p>
+                  <p n="6">6. That as this Caſe ſtands, It's juſt and neceſſary to reſort to the Supreame power in Parliament, in caſe all the reſt ſhould faile.</p>
+                  <p>Of theſe ſix, five of them are Treaſon, within the Compaſſe of the Lawes already eſtabliſhed, Three within the Statute of
+25, <hi>E.</hi> 3. One within the <hi>Iriſh</hi> Statute, the other by the Common Law of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+                  </p>
+                  <p>If but any one of theſe 6. Conſiderations hould, The Commons conceive that upon the whole matter they had good cauſe to paſſe the Bill.</p>
+                  <p>
+                     <pb n="9" facs="tcp:64185:23"/> My Lords, for the firſt of levying Warre,
+<note place="margin">1. <hi>The Caſe.</hi>
+                     </note> I ſhall make bold to read the Caſe to your Lordſhips before I ſpeake to it, its thus.</p>
+                  <p>The Earle did by warrant under his hand and Seal give authority to <hi>Robert Savill</hi> a Ser<g ref="char:EOLhyphen"/>jeant at Arms, and his Deputies to ſeſſe ſuch number of Souldiers, horſe and foote of the Army in
+<hi>Ireland</hi> together with an officer, as the Serjeant ſhould thinke fit, upon his Ma<g ref="char:EOLhyphen"/>jeſties Subjects of <hi>Ireland</hi> againſt their will: This warrant was granted by the Earle to the end to compell the Subjects of
+<hi>Ireland</hi> to ſubmit to the unlawfull Summons and or<g ref="char:EOLhyphen"/>ders made by the Earle upon paper Petiti<g ref="char:EOLhyphen"/>ons exhibited unto him in caſe of private Intereſt betweene party and party; This warrant was executed by <hi>Savill</hi> and his De<g ref="char:EOLhyphen"/>puties by ſeſſing of Souldiers both horſe and foote, upon diverſe of the Subjects of <hi>Ireland</hi> againſt their will in warre-like man<g ref="char:EOLhyphen"/>ner, and at divers times the Souldiers con<g ref="char:EOLhyphen"/>tinued upon the parties upon whom they were ſeſſed, and waſted their goods, untill ſuch time as they had ſubmitted themſelves unto thoſe Summons and orders.</p>
+                  <p>My Lords, This is a levying of warre within the ſtatute of
+25<hi rend="sup">o</hi>. <hi>E.</hi> 3. The words of the Statute are, <hi>If any man doe levy warre againſt our Lord the King in his Realm,</hi> this is declared to be Treaſon.</p>
+                  <p>I ſhall indeavour in this to make it ap<g ref="char:EOLhyphen"/>peare to your Lordſhips.</p>
+                  <p>
+                     <pb n="10" facs="tcp:64185:24"/> 
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> What ſhall be a levying of Warre, in re<g ref="char:EOLhyphen"/>ſpect of the motive or cauſe of it.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> What ſhall bee ſaid a levying of warre in reſpect of the Action or thing done.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> And in the third place, I ſhall apply them to the preſent Caſe.</p>
+                  <p>It will bee granted in this of levying of warre, That forces may bee raiſed, and likewiſe uſed in a warre-like manner, and yet no levying of warre within the Statute, that is, when the forces are raiſed and im<g ref="char:EOLhyphen"/>ployed upon private ends either of revenge or intereſt.</p>
+                  <p>Before this Statute in <hi>E.</hi> 1. time. The Title of a Caſtle was in difference between the Earles of <hi>Hereford</hi> and
+<hi>Gloſter,</hi> for the mainetaining of the poſſeſſion on the one ſide, and gayning of it on the other, For<g ref="char:EOLhyphen"/>ces were raiſed on either ſide of many hun<g ref="char:EOLhyphen"/>dred men, they marched with Banners diſ<g ref="char:EOLhyphen"/>played one againſt the other. In the Par<g ref="char:EOLhyphen"/>liament in the 20. yeere of <hi>Edw.</hi> 1. this ad<g ref="char:EOLhyphen"/>judged onely treſpaſſe, and either of the <hi>Earls</hi> fined a 1000. markes a peece.</p>
+                  <p>After the Statute in Hillary Terme, the fiftieth yeere of
+<hi>Edward</hi> the third, in the <hi>Kings Bench, Rot.</hi> 3. <hi>Nicholas Huntercome</hi> in a warre-like manner, with 40. men ar<g ref="char:EOLhyphen"/>med, amongſt other weapons, with Gunnes, (ſo antient as appeares by that Record they were,) did much ſpoyle in the Man<g ref="char:EOLhyphen"/>nor of the <hi>Abbee of Dorcheſter,</hi> in the
+<pb n="11" facs="tcp:64185:24"/> 
+                     <hi>County of Oxford:</hi> This no Treaſon: So it hath beene held by the Judges, that if one or more Towneſhips upon pretence of ſa<g ref="char:EOLhyphen"/>ving their Commons, doe in a forecible and warre-like manner, throwe in Inclo<g ref="char:EOLhyphen"/>ſures; This is onely a Riot, noe Trea<g ref="char:EOLhyphen"/>ſon.</p>
+                  <p>The words of the Statute of 25. <hi>E.</hi> 3. cleare this Point, that if any man ride ar<g ref="char:EOLhyphen"/>med openly or ſecretly with men at Armes againſt any other to kill and robbe, or to detaine him untill hee hath made fine and ranſome for his deliverance; this is decla<g ref="char:EOLhyphen"/>red not to bee Treaſon, but Fellony or Treſpaſſe, as the caſe ſhall require, all the printed Statutes which have it covertly or ſecretly are miſ-printed; for the words in the Parliament Roll, as appeares n. 17. are <hi>Diſcovertment on ſecreretment</hi> openly or ſe<g ref="char:EOLhyphen"/>cretly.</p>
+                  <p>So that my Lords, in this of levying warre, the Act is not ſo much to bee con<g ref="char:EOLhyphen"/>ſidered, but as in all other Treaſons and Fellonies,
+<hi>quo animo,</hi> with what intent and purpoſe.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Object. </seg>
+                     </label> My Lords, If the end bee conſiderable in levying warre; it may bee ſaid, that it cannot bee a Treaſon warre, unleſſe againſt the King: For the wordes of the ſtatute are, <hi>If any man levy warre against the King.</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>
+                     </label> That theſe words extend further then to
+<pb n="12" facs="tcp:64185:25"/> the Perſon of the King appeares by the wordes of the Statute, which in the be<g ref="char:EOLhyphen"/>ginning declares it to be Treaſon to com<g ref="char:EOLhyphen"/>paſſe and imagine the Kings death, and af<g ref="char:EOLhyphen"/>ter other Treaſons, this is to be declared to be Treaſon, to levy warre againſt the King. If the levying of warre extend no further then to the perſon of the King. Theſe words of the Statute are to no purpoſe, for then the firſt Treaſon of compaſſing the Kings death had fully included it before, becauſe that hee which levies warre againſt the per<g ref="char:EOLhyphen"/>ſon of the King doth neceſſarily compaſſe his death.</p>
+                  <p>Its a warre againſt the King when inten<g ref="char:EOLhyphen"/>ded for alteration of the Lawes or Govern<g ref="char:EOLhyphen"/>ment in any part of them, or to deſtroy a<g ref="char:EOLhyphen"/>ny of the great Officers of the Kingdome. This is a levying of Warre againſt the King.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> Becauſe the King doth protect and main<g ref="char:EOLhyphen"/>taine the Lawes in every part of them, and the great Officers to whoſe care hee hath in his owne ſteede delegated the Execution of them.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> Becauſe they are the Kings Lawes, Hee is the Fountaine from whence in their ſe<g ref="char:EOLhyphen"/>verall Channels, they are derived to the Subject, all our inditements run thus, Treſ<g ref="char:EOLhyphen"/>paſſes laied to bee done,
+<hi>Contrapacem Domini Regis,</hi> the Kings peace for exorbitant offen<g ref="char:EOLhyphen"/>ces, though not intended againſt the Kings
+<pb n="13" facs="tcp:64185:25"/> Perſon, againſt the King his Crowne and Dignity.</p>
+                  <p>My Lords, this conſtruction is made good by diverſe Authorities of great weight ever ſince the ſtatute of 25. <hi>E.</hi> 3. down-wards.</p>
+                  <p>In <hi>R.</hi> the 2<hi rend="sup">ds</hi>. time Sir <hi>Thomas Talbot</hi> con<g ref="char:EOLhyphen"/>ſpired the death of the Dukes of <hi>Gloceſter</hi> and
+<hi>Lancaſter,</hi> and ſome other of the Peeres, for the effecting of it, hee had cauſed di<g ref="char:EOLhyphen"/>verſe people in the County of <hi>Cheſter</hi> to be armed in warre-like manner, in Aſſem<g ref="char:EOLhyphen"/>blies. In the Parliament held the ſeventeenth yeere of <hi>Richard</hi> the ſecond, number the 20. Sir
+<hi>Thomas Talbot</hi> accuſed of high Treaſon for this; Its there declared, that inſomuch as one of them was Lord high Steward of
+<hi>England,</hi> and the other high Conſtable of <hi>England,</hi> that this was done in deſtruction of the eſtates of the Realme, and of the Lawes of the Kingdome, and therefore adjudged Treaſon; and the judge<g ref="char:EOLhyphen"/>ment ſent downe into the Kings Bench, as appeares <hi>Easter-Tearme</hi> in the ſeventh yeere of <hi>Richard</hi> the ſecond in the Kings Bench, <hi>Rott.</hi> 16. Theſe two Lords had appeared in the eleventh yeere of <hi>Richard</hi> the ſe<g ref="char:EOLhyphen"/>cond in mainetenance of the Act of Parlia<g ref="char:EOLhyphen"/>ment made the yeare before, one of them was of the Commiſſioners appointed by Parliament, and one of the Appellours of thoſe that would have overthrowne it<hi>:</hi> The Duke of
+<hi>Lancaſter</hi> likewiſe was one
+<pb n="14" facs="tcp:64185:26"/> of the Lords that was to have beene indi<g ref="char:EOLhyphen"/>cted of Treaſon for endeavouring the main<g ref="char:EOLhyphen"/>tenance of it, and therefore conſpiring of their deaths is ſaid to be in deſtruction of the Lawes; This there declared to bee a Treaſon that concerned the Perſon of the King and the Common-wealth.</p>
+                  <p>In that great inſurrection of the Villains and meaner people in <hi>Richard</hi> the ſeconds time, they tooke an oath, <hi>Quod Regi &amp; Comunibus fidelitatem ſervarent,</hi> to bee true to the King and Commons, that they would take nothing but what they paid for, puniſhed all theft with death, heere's no intendment againſt the perſon of the King, The intent was to aboliſh the Law of vil<g ref="char:EOLhyphen"/>linage and ſervitude, to burne all the Re<g ref="char:EOLhyphen"/>cords, to kill the Judges, this in the Par<g ref="char:EOLhyphen"/>liament of the fifth yeere of
+<hi>Richard</hi> the ſecond, number the one and thirtieth and two and thirtieth, the firſt part, is declared to be Treaſon againſt the King and againſt the Law.</p>
+                  <p>In the eleventh yeere of <hi>Richard</hi> the ſe<g ref="char:EOLhyphen"/>cond, in Parliament the raiſing of forces a<g ref="char:EOLhyphen"/>gainſt the Commiſſioners appointed by act of Parliament the yeer, before adjudg<g ref="char:EOLhyphen"/>ed Treaſon by all the Judges.</p>
+                  <p>The Statute of 1. <hi>Mar. cap.</hi> 12. inacts, that if twelve or more ſhall indeavour by force to alter any of the Lawes or Statutes of the Kingdome, hee ſhall from ſuch a
+<pb n="15" facs="tcp:64185:26"/> time there limited bee adjudged onely as a fellon; This act was to continue but to the next Parliament, it is expired; it ſhewes by the words onely that the offence was higher before the ma<g ref="char:EOLhyphen"/>king of it.</p>
+                  <p>My Lords, In Queene <hi>Elizabeths</hi> time, <hi>Grant</hi> and diverſe Prentices of <hi>London</hi> to the number of 200. roſe and aſſembled at Tow<g ref="char:EOLhyphen"/>er-hill, carried a Cloake upon a Pole in<g ref="char:EOLhyphen"/>ſteede of a banner, their intent was to de<g ref="char:EOLhyphen"/>liver divers Prentices out of priſon that had beene committed upon a ſentence in Star-Chamber for ryots, To kill the Lord Ma<g ref="char:EOLhyphen"/>jor of <hi>London,</hi> and for ſetting prices on vi<g ref="char:EOLhyphen"/>ctuals. In
+<hi>Trinity Tearme</hi> 37. <hi>Eliz.</hi> divers of the Iudges conſulted withall, and reſol<g ref="char:EOLhyphen"/>ved that this was a levying of warre a<g ref="char:EOLhyphen"/>gainſt the Queene, being intended againſt the government and officers of the Queen, and thereupon <hi>Grant</hi> and others executed as Traitors.</p>
+                  <p>Afterwards in that Queenes time, divers of the County of
+<hi>Oxford</hi> conſulted toge<g ref="char:EOLhyphen"/>ther to goe from houſe to houſe in that County, and thence to <hi>London</hi> and other parts to excite them to take Armes for the throwing in of all incloſures throughout <hi>England,</hi> nothing was done, nor no Aſſem<g ref="char:EOLhyphen"/>bly: The Statute of 13. <hi>Eliz. cap.</hi>
+1. during the Queenes life made it Treaſon to in<g ref="char:EOLhyphen"/>tend or adviſe to levy war againſt the Queen.</p>
+                  <p>
+                     <pb n="16" facs="tcp:64185:27"/> In <hi>Eaſter Tearme,</hi> 39.
+<hi>Eliz.</hi> All the Iud<g ref="char:EOLhyphen"/>ges of <hi>England</hi> met about the caſe, it was reſolved by them, that this was a warre in<g ref="char:EOLhyphen"/>tended againſt the Queene, they agreed that if it had beene of one Towneſhip or more upon private intereſt and claime of right of Common, it had not been Trea<g ref="char:EOLhyphen"/>ſon; But this was to throw in all inclo<g ref="char:EOLhyphen"/>ſures thorough the Kingdome, whereto theſe parties could pretend no claime; that it was againſt the Law, in regard that the Statute of
+<hi>Merton</hi> gave power of Inclo<g ref="char:EOLhyphen"/>ſures in many Caſes. Upon this Reſolu<g ref="char:EOLhyphen"/>tion <hi>Bradſhaw</hi> and <hi>Burton</hi> were execu<g ref="char:EOLhyphen"/>ted at
+<hi>Ayneſtowe</hi> hill in <hi>Oxford-ſhire,</hi> the place where they intended their firſt mee<g ref="char:EOLhyphen"/>ting.</p>
+                  <p>So that, my Lords, if the end of it be to overthrow any of the Statutes, any part of the Law and ſetled Governement, or a<g ref="char:EOLhyphen"/>ny of the great Officers intruſted with the execution of them; this is a warre againſt the King.</p>
+                  <p>My Lords, it will be further conſidera<g ref="char:EOLhyphen"/>ble, what ſhall be accounted a leavying of warre in reſpect of the Actions and things done; There's a deſigne to alter ſome part of the Lawes and preſent Governement, for the effecting thereof people bee provided of Armes, gathered together into troopes, but afterwards march not with Banners diſplay<g ref="char:EOLhyphen"/>ed, nor doe <hi>Bellum percutere.</hi> Whether the
+<pb n="17" facs="tcp:64185:27"/> arming themſelves and gathering together upon this Deſigne, whether this be a warre or ſuch proſecution of the Deſigne with force as makes it Treaſon within the Statute?</p>
+                  <p>Firſt, If this be not a Warre in reſpect that it neceſſarily occaſions hoſtile preparations on the other ſide?</p>
+                  <p>2. From the words of the Statute, ſhall levy warre, and be thereof probably attainted of open Deed by people of their Condition, although the bare conſpiring be not an open Deed, yet whether the arming and drawing men together be not an open Declaration of Warre?</p>
+                  <p>In Sir <hi>Thomas Talbots</hi> caſe before cited in the ſeventeenth yeere of <hi>Richard</hi> the ſecond, The Acts of force are expreſſed in the Par<g ref="char:EOLhyphen"/>liament Roll. That hee cauſed divers of the people of the County of <hi>Cheſter</hi> to bee armed in a warre-like manner in aſſemblies; heere is no marching, no bauners diſplayed.</p>
+                  <p>In the 28. yeare of <hi>Henry</hi> the 6<hi rend="sup">th.</hi> 
+                     <hi>Wil<g ref="char:EOLhyphen"/>liam Bell</hi> and <hi>Thomas Lacy</hi> in <hi>Com' Kanc.</hi> conſpired with
+<hi>Thomas Cheney,</hi> called the <hi>Hermite</hi> of the Queene of Faires to over<g ref="char:EOLhyphen"/>throw the Lawes and cuſtomes of the Realme, and for the effecting of it, they with two hundred more met together, and concluded upon a courſe of raiſing greater forces in the county of <hi>Kent,</hi> and the adja<g ref="char:EOLhyphen"/>cent Shires, this adjudged Treaſon, theſe were open Actes.</p>
+                  <p>
+                     <pb n="18" facs="tcp:64185:28"/> My Lords, for the application of both theſe to the Caſe in queſtion.</p>
+                  <p>Firſt in reſpect of the end of it, here was a warre againſt the King, It was to ſubvert the Lawes, This being the deſigne, for the effecting of it, he aſſumed to his owne perſon, an arbitrary power over the lives, liberties and eſtates of his Majeſties Sub<g ref="char:EOLhyphen"/>jects, and determined Cauſes upon paper petitions at his owne will and pleaſure, obedience muſt be forced by the Army, this declared by the Warrant.</p>
+                  <p>If it bee ſaid, That the Warrant ex<g ref="char:EOLhyphen"/>preſſeth not any intent of ſubverting the Lawes, It expreſſeth fully one of the principall meanes whereby this was to be done, that is, obedience to his arbitrary or<g ref="char:EOLhyphen"/>ders upon paper petitions, this was done in reference to the maine deſigne.</p>
+                  <p>In the Caſes of the Towne of <hi>Cam<g ref="char:EOLhyphen"/>bridge</hi> and S<hi rend="sup">r</hi>.
+<hi>William Cogan,</hi> that have formerly beene cited to your Lordſhippes, upon other occaſions, the things in them<g ref="char:EOLhyphen"/>ſelves were not Treaſon, they were not a levying of Warre.</p>
+                  <p>In that of <hi>Cambridge,</hi> the Towneſmen met together, and in a forcible manner broke up the Univerſity treaſury, and tooke out of it the Records and Evidence of the liber<g ref="char:EOLhyphen"/>ties of the Univerſity over the Towne.</p>
+                  <p>In the other, they of <hi>Bridgewater</hi> mar<g ref="char:EOLhyphen"/>ched to the Hoſpitall, and compelled the
+<pb n="19" facs="tcp:64185:28"/> Maſter of the Hoſpitall to deliver unto them certaine Evidences that concerned the Towne, and forced him to enter into a bond of two hundred pound.</p>
+                  <p>Theſe, if done upon theſe private ends alone, had not beene Treaſon, as appeares by the very words of the Statute of 25.
+<hi>Edw.</hi> 3. before mentioned of marching openly or ſecretly.</p>
+                  <p>But my Lords, theſe of <hi>Cambridge</hi> and
+<hi>Bridgewater,</hi> they were of the conſpiracy with the villaines, as appeares in the Parlia<g ref="char:EOLhyphen"/>ment Roll of the fift yeare of <hi>Richard</hi> the ſecond, number the one and thirtieth, and two and thirtieth, where the Townes of <hi>Cam<g ref="char:EOLhyphen"/>bridge</hi> and <hi>Bridgewater</hi> are expreſſely ex<g ref="char:EOLhyphen"/>cepted out of the generall pardon made to the Villaines. This being done in Reference to that deſigne of the villains of altering the Lawes, this it was that made it Trea<g ref="char:EOLhyphen"/>ſon.</p>
+                  <p>If the deſigne went no further then the enforcing obedience to theſe paper orders made by himſelfe, It was ſufficient, it was to ſubvert one fundamentall part of the Lawes, nay in effect the whole Law, what uſe of Law if hee might order, and deter<g ref="char:EOLhyphen"/>mine of mens eſtates at his owne pleaſure; This was againſt the Law notoriouſly de<g ref="char:EOLhyphen"/>clared in
+<hi>Ireland.</hi>
+                  </p>
+                  <p>In the cloſe roll in the Tower, in the five and twentieth yeare of <hi>Edw.</hi> 1. a Writ went
+<pb n="20" facs="tcp:64185:29"/> to the Juſtices in <hi>Ireland,</hi> (that Kingdome at that time was governed by Juſtices) de<g ref="char:EOLhyphen"/>claring that upon petitions they were not to determine any titles betweene party and par<g ref="char:EOLhyphen"/>ty upon any pretence of profit whatſoever to the King.</p>
+                  <p>In the eight and twentieth yeare of <hi>Henry</hi> the ſixt the ſecond Chapter, Suites in equi<g ref="char:EOLhyphen"/>ty, not before the Deputy, but in Chancery, Suits at Common Law, not before him, but in Caſes of life in the Kings Bench, for title of land or goods in the proper Courts of the Common pleas, or Kings Bench.</p>
+                  <p>This declared in the Inſtructions for <hi>Ire<g ref="char:EOLhyphen"/>land</hi> in the latter end of King <hi>James</hi> his time, and by the Proclamation in his Ma<g ref="char:EOLhyphen"/>jeſties time, my Lord took notice of them, called the Commiſſioners narrow hearted Commiſſioners.</p>
+                  <p>The Law ſaid, he ſhould not thus pro<g ref="char:EOLhyphen"/>ceed in ſubverſion of it, he ſaith, he will, and will enforce obedience by the Army. This is as much in reſpect of the end as to endeavour the overthrow of the Statutes of Laborers, of victualls, or of <hi>Merton</hi> for Incloſures. Here is a warre againſt the King in reſpect of the end.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> In reſpect of the Actions, whether there be either a levying of warre, or an open deed, or both.</p>
+                  <p>My Lords, there was an Army in <hi>Ireland</hi> at that time of two thouſand horſe and foot,
+<pb n="21" facs="tcp:64185:29"/> by this Warrant there is a full deſignation of this whole Army, and an Aſſignement of it over unto
+<hi>Savill</hi> for this purpoſe. The Warrant gives him power from time to time to take as many Souldiers, horſe and foot, with an Officer, throughout the whole Army as himſelfe ſhall pleaſe, heere is the terrour and awe of the whole Army to enforce obedience. My Lords, if the Earle had armed two thouſand men, horſe and foot, and formed them into com<g ref="char:EOLhyphen"/>panies to this end, your Lordſhips would have conceived that this had beene a warre, It's as much as in the caſe of Sir <hi>Thomas Tal<g ref="char:EOLhyphen"/>bot</hi> who armed them in aſſemblies.</p>
+                  <p>This is the ſame with a breach of truſt added to it. That Army was firſt raiſed and afterwards committed to his truſt for de<g ref="char:EOLhyphen"/>fence of the people, is now deſtined by him to their deſtruction. This aſſignation of the Army by his Warrant under his hand and ſeale is an open Act.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> My Lords, heer's not onely an open act done, but a levying of warre, Souldiers both horſe and foot, with an Officer in warlicke manner ſeſſed upon the Subject, which killed their Cattell, conſumed and waſted their goods.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Ob. </seg>
+                     </label> O, but five or ſixe were the moſt im<g ref="char:EOLhyphen"/>imployed at any time, a mighty warre of ſix men, ſcarce a Ryot.</p>
+                  <p>Your Lordſhips obſerve a great diffe<g ref="char:EOLhyphen"/>rence
+<pb n="22" facs="tcp:64185:30"/> where ſix ſingle men goe upon a de<g ref="char:EOLhyphen"/>ſigne alone, and when ſent from an Army of ſix hundred, all engaged in the ſame ſervice, ſo many were ſent as were ſuffici<g ref="char:EOLhyphen"/>ent to execute the Command, if upon a poore man fewer, more upon a rich, if the ſix had not beene able, the whole Army muſt make it good; the reaſon that the She<g ref="char:EOLhyphen"/>riffe alone, or with but one Bayliffe to doe execution, is, becauſe hee hath the Com<g ref="char:EOLhyphen"/>mand of the Law, the Kings Writ and the <hi>poſse Comitatus</hi> in caſe of Reſiſtance; heer's the warrant of the Generall of an Army, heer's the <hi>poſſe exercitus,</hi> the power of the Army, under this awe of the whole Ar<g ref="char:EOLhyphen"/>my, ſix may force more then ſixty without it, and although never above fix in one place, yet in the ſeverall parts of the Kingdome at the ſame time might be above ſixty; for ſeſſing of Souldiers was frequent, it was the ordinary courſe for execution of his orders.</p>
+                  <p>The Lord Lievetenant of a County in <hi>England</hi> hath a deſigne to alter the Lawes and governement, nay admit the deſigne goes not ſo high, hee onely declares thus much, that he will order the freeholds and eſtates of the Inhabitans of the Coun<g ref="char:EOLhyphen"/>ty at his owne will and pleaſure, and doth accordingly proceed upon paper petitions, foreſeeing there will be diſobedience; he grants out warrants under his hand and ſeale
+<pb n="23" facs="tcp:64185:30"/> to the deputy Lievetenants and Captaines of the traine bands, that upon refuſall they ſhall take ſuch number of the traine bands thorow the County with Officers as they ſhall think good, and lay them upon the lands and houſes of the refuſers; Souldi<g ref="char:EOLhyphen"/>ers in a warlike manner are frequently ſeſſed upon them accordingly. Your Lord<g ref="char:EOLhyphen"/>ſhips doe conceive that this is a levying of Warre within the Statute.</p>
+                  <p>The Caſe in queſtion goes further in theſe two Reſpects.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> That it is more againſt the declared Law in <hi>Ireland,</hi> not onely againſt the Common Law, but likewiſe againſt the Statute of the eight and twentieth yeare of <hi>Henry</hi> the ſixt, againſt the Acts of the Commiſſioners, a<g ref="char:EOLhyphen"/>gainſt Proclamations in purſuance of the Law, againſt that himſelfe took notice of, narrow hearted Comiſſioners.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> In this that here was an Army, the Souldi<g ref="char:EOLhyphen"/>ers, Souldiers by profeſſion, Acts of hoſtility from them of greater Terror then from free-holders of the ſame County.</p>
+                  <p>My Lords, I have now done with the firſt of levying warre.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> The ſecond is the machination, the ad<g ref="char:EOLhyphen"/>viſing of a warre; The Caſe in this reſts upon the Warrant to
+<hi>Savill,</hi> and the advice in the 23 Article.</p>
+                  <p>The Warrant ſhewes a reſolution of em<g ref="char:EOLhyphen"/>ploying the old Army of <hi>Ireland,</hi> to the op<g ref="char:EOLhyphen"/>proſſion
+<pb n="24" facs="tcp:64185:31"/> of his Majeſties Subjects and the Lawes.</p>
+                  <p>In the 23 Article having told his Maje<g ref="char:EOLhyphen"/>ſty that he was looſed and abſolved from rules of Government and might doe every thing which power might admit, hee pro<g ref="char:EOLhyphen"/>ceeded further in ſpeech to his Majeſty, in theſe words; You have an Army in <hi>Ireland</hi> You may employ to reduce this Kingdome.</p>
+                  <p>My Lords, both being put together, ther's a machination, a practiſe, an adviſe to levy warre, and by force to oppreſſe and deſtroy his Majeſties Subjects.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Object. </seg>
+                     </label> It hath beene ſaid, the Statute of 25. <hi>Edw.</hi> 3. is a penall Law, and cannot bee taken by equity and Conſtruction, there muſt be an actuall warre; the Statute makes it Treaſon to counterfeit the Kings Coyne, the conſpiring, the raiſing of furnaces is no Treaſon, unleſſe he doth <hi>nummum percutere,</hi> actually coyne.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>
+                     </label> My Lords, this is onely ſaid, not pro<g ref="char:EOLhyphen"/>ved, the Law is otherwiſe, 19. of <hi>Henry</hi> the ſixt, fol. 47. there adjudged that the conſpi<g ref="char:EOLhyphen"/>ring and ayding to counterfeit coyne was Treaſon, and Iuſtice <hi>Stamford,</hi> fol. 3. &amp; 44. is of opinion, That this or conſpiring to counterfeit the great Seale is Treaſon. The Statute is, If any ſhall counterfeit the great Seale, conſpiring to doe it by the book is Treaſon; if a man take the broad Seale from one Pattent, and put it to another,
+<pb n="25" facs="tcp:64185:31"/> here is no counterfeiting, its
+<hi>tuntamount,</hi> and therefore Treaſon, as is adjudged in 2.
+<hi>Henry</hi> 4. <hi>fo.</hi> 25. and by the opinion of <hi>Stamford.</hi>
+                  </p>
+                  <p>If machination or plotting a warre be not within that clauſe of the Statute of le<g ref="char:EOLhyphen"/>vying warre, yet its within the firſt of compaſſing the death of the King, as that which neceſſarily tends to the deſtruction both of the King and of the people, upon whoſe ſafety and protection he is to engage himſelfe: That this is Treaſon hath beene adjudged both after the Statutes of the firſt of <hi>Henry</hi> the fourth Chapter the tenth, &amp; the firſt of Queene <hi>Mary</hi> the firſt Chapter, ſo much inſiſted upon on the other ſide. In the third yeare of King <hi>Henry</hi> the fourth, one <hi>Balſhall</hi> comming from <hi>London,</hi> found one
+<hi>Barnard</hi> at plough in the Pariſh of <hi>Ofley</hi> in the County of
+<hi>Hertford, Bernard</hi> asked <hi>Bal<g ref="char:EOLhyphen"/>ſhall,</hi> what newes, he told him the newes was; That King <hi>Richard</hi> the ſecond was alive in
+<hi>Scotland</hi> (which was falſe, for he was then dead) and that by
+<hi>Midſomer</hi> next he would come into <hi>England; Bernard</hi> asked him, what was beſt to be done, <hi>Balſhall</hi> an<g ref="char:EOLhyphen"/>ſwered, get men, and goe to King <hi>Richard.</hi> In <hi>Michaelmas</hi> Tearme, in the third yeare of <hi>Henry</hi> the fourth in the Kings Bench, rot. 4. this adviſe of warre adjudged Treaſon.</p>
+                  <p>In Queene <hi>Maries</hi> time. Sir <hi>Nicholas Throckmorton</hi> conſpired with Sir <hi>Thomas</hi>
+                     <pb n="26" facs="tcp:64185:32"/> Wyat to levy warre within this Realme for alteration in Religion, he joyned not with him in the execution. This Conſpiracy alone declared to be Treaſon by the Judges. This was after the Statute of the firſt of Queene <hi>Mary</hi> ſo much inſiſted upon. That Parliament ended in <hi>October,</hi> this opinion was delivered the
+<hi>Eaſter-</hi>Tearme after, and is reported by Juſtice <hi>Dyer, fo.</hi>
+98. It's true, Sir <hi>Thomas Wyat</hi> afterwards did levy warre, Sir
+<hi>Nicho<g ref="char:EOLhyphen"/>las Throgmorton</hi> hee onely conſpired, this adjudged Treaſon.</p>
+                  <p>
+                     <hi>Storie,</hi> in Queene <hi>Elizabeths</hi> time, pra<g ref="char:EOLhyphen"/>ctiſed with Forreiners to levy warre with<g ref="char:EOLhyphen"/>in the Kingdome, nothing done in pur<g ref="char:EOLhyphen"/>ſuance of the practiſe. The intent with<g ref="char:EOLhyphen"/>out any adhering to Enemies of the Queene or other cauſe adjudged to be Trea<g ref="char:EOLhyphen"/>ſon, and he executed thereupon. It's true my Lords, that yeare 13. <hi>Elizabeth</hi> by Act of Parliament, it's made Treaſon to intend the levying of warre, this Caſe was adjudged before the Parliament. The Caſe was adjudged in <hi>Hillary</hi> Terme, the Parlia<g ref="char:EOLhyphen"/>ment began not untill the <hi>Aprill</hi> fol<g ref="char:EOLhyphen"/>lowing; This my Lords, is a Caſe adjudg<g ref="char:EOLhyphen"/>ed in point, That the practiſing to levy warre, though nothing be done in execution of it is Treaſon.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Object. </seg>
+                     </label> It may be objected that in theſe Caſes, the conſpiring being againſt the whole King<g ref="char:EOLhyphen"/>dome
+<pb n="27" facs="tcp:64185:32"/> included the Queene, and was a com<g ref="char:EOLhyphen"/>paſſing her deſtruction, as wel as of the King<g ref="char:EOLhyphen"/>domes, heere the adviſe was to the King.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>1</label> The Anſwer is, firſt, that the warrant was unknowne to his Majeſty, that was a machi<g ref="char:EOLhyphen"/>nation of warre againſt the people and Lawes, wherein his Majeſties perſon was en<g ref="char:EOLhyphen"/>gaged for protection.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> That the advice was to his Majeſty, aggra<g ref="char:EOLhyphen"/>vates the offence, it was an Attempt not on<g ref="char:EOLhyphen"/>ly upon the Kingdome, but upon the Sacred Perſon, and his office too; himſelfe was <hi>hoſt is patriae,</hi> he would have made the Fa<g ref="char:EOLhyphen"/>ther of it ſo too; nothing more unnaturall, more dangerous; To offer the King poy<g ref="char:EOLhyphen"/>ſon to drink, telling him that it is a Cordiall, is a compaſſing of his death. The poyſon was repelled, there was an antidote within, the malice of the giver beyond expreſſion. The perſwading of Forreiners to invade the kingdome holds no proportion with this, Machination of warre againſt the Lawes or kingdome is againſt the King they cannot be ſevered.</p>
+                  <p>My Lords, if no actuall warre within the
+<note place="margin">
+                        <hi>The</hi> 3. <hi>Ge<g ref="char:EOLhyphen"/>nerall Head</hi>
+                     </note> Statute, if the counſelling of a warre, if neither of theſe ſingle Acts be Treaſon within the Statute; The Commons in the next place have taken it into their conſideration, what the addition of his other words, Counſells, and Actions do operate in the Caſe, and have conceived, That with this addition all being
+<pb n="28" facs="tcp:64185:33"/> put together, that he is brought within the Statute of 25. <hi>Edward</hi> 3.</p>
+                  <p>The words of the Statute are, if any man ſhall compaſſe or imagine the death of the King, the words are not, if any man ſhall plot or conſult the death of the King, no my Lords, they go further then to ſuch things as are intended immediately, directly, and deter<g ref="char:EOLhyphen"/>minatively againſt the life and perſon of the King, they are of a larger extent, to com<g ref="char:EOLhyphen"/>paſſe is to doe by Circuit, to conſult or practice another thing directly, which be<g ref="char:EOLhyphen"/>ing done, may neceſſarily produce this effect.</p>
+                  <p>However it be in the other Treaſons within this Statute, yet in this by the very words there is roome left for conſtructi<g ref="char:EOLhyphen"/>ons, for neceſſary Inferences and Conſe<g ref="char:EOLhyphen"/>quences.</p>
+                  <p>What hath beene the judgement and pra<g ref="char:EOLhyphen"/>ctice of former times concerning theſe words of compaſſing the Kings death will appeare to your Lorſhips by ſome Caſes of attain<g ref="char:EOLhyphen"/>ders upon theſe words.</p>
+                  <p>One <hi>Owen</hi> in King <hi>James</hi> his time in the 13. yeare of his raigne at <hi>Sandwich</hi> in <hi>Kent,</hi> ſpake theſe words, That King <hi>James</hi> being excommunicated by the Pope, may be killed by any man; which killing is no murther: being asked by thoſe he ſpake too, how he durſt maintaine ſo bloudy an aſſertion, hee anſwered that the matter
+<pb n="29" facs="tcp:64185:33"/> was not ſo heynous as was ſuppoſed; for the King who is the leſſer is concluded by the Pope who is the greater, and as a Malefactor being condemned before a Temporall Judge may be delivered over to be Executed, ſo the King ſtanding con<g ref="char:EOLhyphen"/>victed by the Popes ſentence of excommu<g ref="char:EOLhyphen"/>nication may juſtly be ſlaughtered without fault, for the killing of the King is the execu<g ref="char:EOLhyphen"/>tion of the Popes ſupreame ſentence, as the other is the execution of the Law; for this, judgement of High-Treaſon was given a<g ref="char:EOLhyphen"/>gainſt him, and execution done.</p>
+                  <p>My Lords, here is no cleere intent appearing that
+<hi>Owen</hi> deſired the thing ſhould bee done, onely Arguments that it might bee done, This is a Compaſ<g ref="char:EOLhyphen"/>ſing, there is a cleare Endeavour to cor<g ref="char:EOLhyphen"/>rupt the judgement, to take off the bonds of Conſcience, the greateſt ſecurity of the Kings life; God forbid ſaith one of better judgement then he, That I ſhould ſtretch out my hand againſt the Lords annointed, no ſaith he, the Lord doth not forbid it, you may for theſe reaſons lawfully kill the King.</p>
+                  <p>He that denies the Title to the Crowne, and plots the meanes of ſetting it upon ano<g ref="char:EOLhyphen"/>ther head, may doe this without any di<g ref="char:EOLhyphen"/>rect or immediate deſiring the death of him that then weares it, yet this is Trea<g ref="char:EOLhyphen"/>ſon as was adjudged in 10. <hi>Henry</hi> 7. in the
+<pb n="30" facs="tcp:64185:34"/> caſe of <hi>Burton</hi> and in the Duke of <hi>Norfolkes</hi> caſe. 13. <hi>Elizabeth.</hi>
+                  </p>
+                  <p>This is a compaſſing of his death, for there can no more be two Kings in one Kingdome, then two ſunnes in the Fir<g ref="char:EOLhyphen"/>mament, he that conceives a title, counts it worth ventring for, though it coſt him his life, hee that is in poſſeſſion thinkes it as well worth the keeping.
+<hi>John Sparhauke</hi> in King <hi>Henry</hi> the fourths time, mee<g ref="char:EOLhyphen"/>ting two men upon the way, amongſt other talke ſaid, that the King was not rightfull King, but the Earle of <hi>March,</hi> and that the Pope would grant indulgen<g ref="char:EOLhyphen"/>cies to all that would aſſiſt the Earles ti<g ref="char:EOLhyphen"/>tle, and that within halfe a yeare there would be no Liveries nor Conizances of the King, that the King had not kept pro<g ref="char:EOLhyphen"/>miſe with the people but had layed taxes upon them. In
+<hi>Eaſter</hi> Tearme in the third yeare of <hi>Henry</hi> the fourth in the Kings Bench Rot. 12. this adjudged Treaſon. This deny<g ref="char:EOLhyphen"/>ing the title with motives though but imply<g ref="char:EOLhyphen"/>edly of Action againſt it, adjudged Treaſon, this is a compaſſing the Kings death.</p>
+                  <p>How this was a compaſſing the Kings death is declared in the reaſons of the judge<g ref="char:EOLhyphen"/>ment, That the words were ſpoken with an intent to withdraw the affections of the peo<g ref="char:EOLhyphen"/>ple from the King, and to excite them a<g ref="char:EOLhyphen"/>gainſt the King, that in the end they might riſe up againſt him <hi>in mortem &amp; deſtructio<g ref="char:EOLhyphen"/>nem</hi> of the King.</p>
+                  <p>
+                     <pb n="31" facs="tcp:64185:34"/> My Lords, in this Judgement and others which I ſhall cite to your Lordſhips; It ap<g ref="char:EOLhyphen"/>peares that it is a compaſſing the Kings death by words, to indeavour to draw the peoples hearts from the King, to ſet diſcord be<g ref="char:EOLhyphen"/>tween the King and them, wherby the people ſhould leave the King, ſhould riſe up againſt him to the death and deſtruction of the King.</p>
+                  <p>The caſes that I ſhall cite prove not onely that this is Treaſon, but what is ſufficient evidence to make this good.</p>
+                  <p>Upon a Commiſſion held the 18. yeare of <hi>Ed.</hi> 4. in
+<hi>Kent,</hi> before the <hi>Marqueſſe of Dorſet</hi> &amp; others, an Inditement was preferred againſt <hi>Iohn Awater</hi> of High-Treaſon, in the forme before mentioned, for words which are en<g ref="char:EOLhyphen"/>tred in the enditment,
+<hi>ſub hâc formâ,</hi> That he had been ſervant to the Earle of <hi>Warwick,</hi> that though he were dead, the Earle of <hi>Oxford</hi> was alive, and ſhould have the government of part of the Country, That
+<hi>Edward</hi> whom you call King of <hi>England</hi> was a falſe man, and had by art and ſubtilty ſlain the Earle of <hi>Warwick</hi> and the Duke of
+<hi>Clarence</hi> his brother without any cauſe, who before had beene both of them attainted of High-Treaſon.</p>
+                  <p>My Lords, this Inditement was returned into the Kings Bench in
+<hi>Trinity</hi> Tearme in the eighteenth yeare of <hi>Edward</hi> the fourth, and in <hi>Eaſter</hi> Tearme in the two and twen<g ref="char:EOLhyphen"/>tieth yeare of
+<hi>Edward</hi> the fourth he was out<g ref="char:EOLhyphen"/>lawed, by the ſtay of the
+<hi>outlawry</hi> ſo long
+<pb n="32" facs="tcp:64185:35"/> it ſeemes the Judges had well adviſed be<g ref="char:EOLhyphen"/>fore whether it were Treaſon or not.</p>
+                  <p>At the ſame Seſſion, <hi>Thomas Heber</hi> was indited of Treaſon for theſe words; <hi>That the laſt Parliament was the moſt ſimple and inſufficient Parliament that ever had beene in England. That the King was gone to live in</hi> Kent, <hi>becauſe that for the preſent hee had not the love of the Citizens of</hi> London, <hi>nor ſhould hee have it for the future. That if the Biſhop of</hi> Bath <hi>and</hi> Wells <hi>were dead, the Arch-Biſhop of</hi> Canterbury, <hi>being Cardinall of</hi> England, <hi>would immediately looſe his head.</hi> This Inditement was returned into the Kings Bench in <hi>Trinity</hi> Tearme in the eighteenth yeare of <hi>Edward</hi> the fourth. Afterwards there came a Privy Scale to the Iudges to re<g ref="char:EOLhyphen"/>ſpit the proceedings, which as it ſhould ſeeme was to the intent the Iudges might ad<g ref="char:EOLhyphen"/>viſe of the Caſe, for afterwards he is out<g ref="char:EOLhyphen"/>lawed of high-Treaſon upon this inditement.</p>
+                  <p>Theſe words were thought ſufficient evi<g ref="char:EOLhyphen"/>dence to prove theſe ſeverall Inditements, That they were ſpoken to with draw the peo<g ref="char:EOLhyphen"/>ples affection from the King, to excite them againſt him; to cauſe riſings againſt him by the people <hi>in more<g ref="char:cmbAbbrStroke">̄</g> &amp; deſtructions</hi> of the King.</p>
+                  <p>Your Lordſhips are pleaſed to conſider that in all theſe Caſes, the Treaſon was for words only, words by private perſons, and in amore private manner, but once ſpoken and no more, only amongſt the people, to excite
+<pb n="33" facs="tcp:64185:35"/> them againſt the King.</p>
+                  <p>My Lords, here are words; Counſells more then words, and actions too, not only to diſ<g ref="char:EOLhyphen"/>affect the people to the King, but the King likewiſe towards the people, not once but of<g ref="char:EOLhyphen"/>ten, not in private, but in places moſt pub<g ref="char:EOLhyphen"/>lique, not by a private perſon, but by a Coun<g ref="char:EOLhyphen"/>ſellor of State, a Lord Leivetenant, a Lord Preſident, a Lord Deputie of
+<hi>Ireland.</hi>
+                  </p>
+                  <p n="1">1. To his Majeſty, <hi>That the Parliament had denied to ſupply him;</hi> a ſlander upon all the Commons of <hi>England</hi> in their affections to the King and Kingdome, in refuſing to yeeld timely ſupply for the neceſſities of the King and Kingdome.</p>
+                  <p n="2">2. From thence, <hi>that the King was looſe and abſolved from rules of governement, and was to doe every thing that power would admit,</hi> My Lords, more cannot be ſaid, they cannot be aggravated, whatever I ſhould ſay would be in diminution.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thence, <hi>You have an Army in Ireland, you may imploy to reduce this Kingdome.</hi>
+                  </p>
+                  <p>To counſell a King not to love his people is very unnaturall, it goes higher, to hate them, to malice them in his heart; the higheſt ex<g ref="char:EOLhyphen"/>preſſions of malice, to deſtroy them by war: Theſe coales they were caſt upon his Maje<g ref="char:EOLhyphen"/>ſty, they were blowne, they could not kin<g ref="char:EOLhyphen"/>dle in that breſt.</p>
+                  <p>Thence, my Lords, having done the utmoſt to the King, he goes to the people: At <hi>York</hi> the
+<pb n="34" facs="tcp:64185:36"/> Country being met together for Juſtice, at the open Aſſizes upon the Bench, he tells them, ſpeaking of the Juſtices of the Peace, <hi>that they were all for Law, nothing but Law, but they ſhould find that the Kings little finger ſhould be heavier then the loines of the Law.</hi>
+                  </p>
+                  <p>
+                     <hi>They ſhall find,</hi> my Lords, who ſpeaks this to the people, a Privie Counſellor; this muſt be either to traduce his Majeſty to the people as ſpoken from him, or from himſelfe, who was Lord Leivetenant of the County and Preſi<g ref="char:EOLhyphen"/>dent, intruſted with the forces and Juſtice of thoſe parts, that he would imploy both this way; add, my Lords, to his words there the exerciſing of an arbitrary and vaſt Juriſdicti<g ref="char:EOLhyphen"/>on before he had ſo much as Inſtructions or colour of warrant.</p>
+                  <p>Thence, we carry him into <hi>Ireland,</hi> there he repreſented by his place the ſacred perſon of his Majeſty.</p>
+                  <p n="1">1. There at <hi>Dublyn</hi> the principall Citty of that Kingdome, whether the Subjects of that Country came for Juſtice, in an Aſſembly of Peeres and others of greateſt ranke, upon oc<g ref="char:EOLhyphen"/>caſion of a Speech of the Recorder of that Citty touching their Franchiſes and Legall Rights, he tells them, that <hi>Ireland was a Con<g ref="char:EOLhyphen"/>quered Nation, and that the King might do with them what he pleaſed.</hi>
+                  </p>
+                  <p n="2">2. Not long after, in the Parliament 10. <hi>Car.</hi> in the Chaire of State, in full Parliament, a<g ref="char:EOLhyphen"/>gaine, That <hi>they were a conquered Nation, and</hi>
+                     <pb n="35" facs="tcp:64185:36"/> 
+                     <hi>that they were to expect Lawes as from a Conque<g ref="char:EOLhyphen"/>ror,</hi> before, <hi>the King might do with them what he would,</hi> now, <hi>They were to expect it, that he would put this power of a Conqueror in execution.</hi> The Circumſtances are very conſiderable, in full Parliament, from himſelfe in <hi>Cathedrâ,</hi> to the repreſentative body of the whole King<g ref="char:EOLhyphen"/>dome.</p>
+                  <p>The occaſion adds much, when they deſire the benefit of the Lawes, and that their Cau<g ref="char:EOLhyphen"/>ſes and Suites might be determined accor<g ref="char:EOLhyphen"/>ding to Law, and not by himſelfe, at his will and pleaſure upon paper Petitions.</p>
+                  <p n="3">3. Upon like occaſion of preſſing the Lawes and Statutes, That he would make an <hi>Act of counſell board in that Kingdome as binding as an Act of Parliament.</hi>
+                  </p>
+                  <p n="4">4. He made his words good by his actions, aſſumed and exerciſed a boundleſſe and law<g ref="char:EOLhyphen"/>leſſe Juriſdiction over the lives, perſons, and eſtates of his Majeſties Subjects, procured judgement of death againſt a Peere of that Realme, commanded another to be hanged, this was accordingly executed, both in times of high Peace, without any proceſſe or co<g ref="char:EOLhyphen"/>lour of Law.</p>
+                  <p n="5">5. By force for a long time he ſeiſed the yarne and flax of the Subjects, to the ſtarving and undoing of many thouſands, beſides the Tobacco buſineſſe, and many Monopolies, and unlawfull Taxes, forced a new Oath not to diſpute his Majeſties royall commands, de<g ref="char:EOLhyphen"/>termined
+<pb n="36" facs="tcp:64185:37"/> mens eſtates at his owne will and pleaſure upon paper Petititions to himſelfe, forced Obedience to theſe, not only by Fines and Impriſonment, but likewiſe by the Ar<g ref="char:EOLhyphen"/>my, ſeſſed Souldiers upon the refuſers in a ho<g ref="char:EOLhyphen"/>ſtile manner.</p>
+                  <p n="6">6. Was an Incendiary of the warre between the two Kingdomes of <hi>England</hi> and <hi>Scotland.</hi>
+                  </p>
+                  <p>My Lords, we ſhall leave it to your Lord<g ref="char:EOLhyphen"/>ſhips Judgements, whether theſe words, Counſells, and Actions would not have been a ſufficient Evidence to have proved an In<g ref="char:EOLhyphen"/>ditement drawne up againſt him, as thoſe be<g ref="char:EOLhyphen"/>fore mentioned, and many others are; That they were ſpoken and done to the intent to withdraw the Kings heart from the people, and the affections of the people from the King, that they might leave the King, and af<g ref="char:EOLhyphen"/>terwards riſe up againſt him to the deſtructi<g ref="char:EOLhyphen"/>on of the King; if ſo, here is a com<g ref="char:EOLhyphen"/>paſſing of the Kings death within the words of the Statute of the five and twentieth yeare of <hi>Edward</hi> the third, and that warranted by many former judgements.</p>
+                  <p>My Lords, I have now done with the three
+<note place="margin">
+                        <hi>The</hi> 4. <hi>Gene<g ref="char:EOLhyphen"/>rall Head.</hi>
+                     </note> Treaſons within the Statute of the five and twentieth of
+<hi>Edward</hi> the third. I proceed to the fourth upon the Statute of the eighteenth yeare of <hi>Henry</hi> the ſixt, Chapter the third in
+<hi>Ireland;</hi> I ſhall make bold to read the words to your Lordſhips,</p>
+                  <p>
+                     <hi>That no Lord, nor any other of what condition</hi>
+                     <pb n="37" facs="tcp:64185:37"/> 
+                     <hi>ſoever he be, ſhall bring or lead hoblers, kerves, or hooded men, nor any other people, nor horſes to lie on horſeback or on foot upon the Kings Subjects with<g ref="char:EOLhyphen"/>out their good wills and conſent, but upon their own coſts, and without hurt doing to the Commons, and if any ſo do he ſhall be judged as Traitor.</hi>
+                  </p>
+                  <p>1. The Argument that hath been made con<g ref="char:EOLhyphen"/>cerning the Perſon, That it extends not to the King, and therefore not to him; weighs no<g ref="char:EOLhyphen"/>thing with your Lordſhips <hi>Rex non habet in regno parem,</hi> from the greatneſſe of his office to argue himſelfe into the ſame impoſſibili<g ref="char:EOLhyphen"/>ty with his ſacred Majeſty of being uncapa<g ref="char:EOLhyphen"/>ble of High-Treaſon, it's an Offence, no rea<g ref="char:EOLhyphen"/>ſon; The words in the Statute, <hi>No Lord nor any other of what condition ſoever he be,</hi> in<g ref="char:EOLhyphen"/>cludes every Subject.</p>
+                  <p>In <hi>Trinity</hi> Terme in the three and thirtieth yeare of
+<hi>Henry</hi> the eight, in the Kings Bench; <hi>Leonard</hi> Lord
+<hi>Gray,</hi> having immediately be<g ref="char:EOLhyphen"/>fore been Lord Deputy of <hi>Ireland,</hi> is attainted of High-Treaſon, and Judgement given a<g ref="char:EOLhyphen"/>gainſt him for letting diverſe Rebels out of the Caſtle of <hi>Dublin,</hi> and diſcharging Iriſh hoſtages and pledges that had been given for ſecuring the Peace, for not puniſhing one that ſaid the King was an Heretique. I have read the whole Record, ther's not one thing laid to his charge but was done by him as Lord Leivetenant: He had the ſame Plea with my Lord of <hi>Strafford;</hi> That theſe things were no adhering to the Kings Enemies, but
+<pb n="38" facs="tcp:64185:38"/> were done for reaſons of State, That he was not within thoſe words of the Satute of the five and twentieth yeare of
+<hi>Edward</hi> the third, himſelfe being Lord Lieutenant there, they coſt his life.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Object. </seg>2</label> It hath been ſaid, That the Souldiers, ſeſſed upon the Subjects by him, were not ſuch per<g ref="char:EOLhyphen"/>ſons as are intended by that Statute, <hi>Hoblers, Kerves, and hooded men,</hi> theſe raſcall peo<g ref="char:EOLhyphen"/>ple.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>
+                     </label> My Lords, they were the names given to the Souldiary of thoſe times, Hoblers horſe<g ref="char:EOLhyphen"/>men, the other the foot, but the words of the Statute goe further, <hi>Nor any other people, neither horſe nor foot,</hi> his Lordſhip ſeſſed upon them both horſe and foot.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Object. </seg>3</label> The Statute extends only to them that leade or bring, <hi>Savill</hi> led them, my Lord only gave the warrant.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>
+                     </label> To that I ſhall ſay only thus,
+<hi>plus peccat au<g ref="char:EOLhyphen"/>thor quam actor,</hi> by the rule of Law, <hi>agentes</hi>
+                     <hi>&amp; conſentientes pari plectuntur paenâ,</hi> if con<g ref="char:EOLhyphen"/>ſent, much more a command to doe it, makes the commandor a Traitor. If there be any Treaſon within this Statute, my Lord of <hi>Strafford</hi> is guilty.</p>
+                  <p>It hath been therfore ſaid, That this Statute like
+<hi>Goliab's</hi> ſword hath beene wrapt up in a cloth and laid behind the doore, that it hath never been put in execution.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>
+                     </label> My Lords, if the Cleark of the Crowne in <hi>Ireland</hi> had certified your Lordſhips
+<pb n="39" facs="tcp:64185:38"/> that upon ſearch of the Judgements of Attainders in <hi>Ireland,</hi> he could not finde that any man had bin attainted upon this Statute, your Lordſhips had had ſome ground to be<g ref="char:EOLhyphen"/>leeve it, yet its onely my Lord of <hi>Straffords</hi> affirmation: Beſides your Lordſhips know that an Act of Parliament binds untill it bee repealed.</p>
+                  <p>It hath bin therefore ſaid, that this Statute is repealed by the Statutes of the eight yeere of <hi>Edward</hi> the fourth, the firſt Chapter, and of the tenth yeere of <hi>Henry</hi> the ſeventh, the two and twentieth Chapter, becauſe by theſe two Statutes, the Engliſh Statutes are brought into <hi>Ireland.</hi>
+                  </p>
+                  <p>The Argument, (if I miſtook it not,) ſtood thus; That the Statute of the firſt of <hi>Henry</hi> the fourth, the 10. Chapter, ſaith, that in no time to come, Treaſon ſhall be adjudged o<g ref="char:EOLhyphen"/>therwiſe, then it was ordained by the Statute of the 25. yeare of <hi>Edward</hi> the third, That the Treaſon mentioned in the 18 yeere of <hi>Henry</hi> the ſixt in the Iriſh Statute is not contained in the Stat. of the 25 yeere of <hi>Ed.</hi> the 3. and ther<g ref="char:EOLhyphen"/>fore being contrary to the Statute of the firſt of
+<hi>Henry</hi> the fourth, it muſt needs be void.</p>
+                  <p>My Lords, the difference of the times wherin the Statute of the firſt yeere of <hi>Henry</hi> the fourth, and that of the 18 yeere of
+<hi>Henry</hi> the ſixt were made, cleares the Point, as is humbly conceived; that of <hi>Henry</hi> the ſixt was made 40 yeares after the other.</p>
+                  <p>
+                     <pb n="40" facs="tcp:64185:39"/> The Statute of the eighth yeare of
+<hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the fourth, and the tenth of <hi>Henry</hi> the ſeventh, bringing in the Engliſh Sta<g ref="char:EOLhyphen"/>tutes in order and ſeries of time, as they were made one after another (as afterwards is prooved they did) it cannot be that the Statute of the firſt yeere of <hi>Henery</hi> the fourth made fourty yeere before, ſhould repeale or make void the Statute of the 18. <hi>H.</hi>
+6. made ſo long after. The rule of Law is that <hi>Leges poſteriores priores abrogant,</hi> that latter lawes repeale former, but by this conſtruction a former Lawe ſhould repeale and make voide a <hi>Non ens,</hi> a Statute that then was not.</p>
+                  <p>If this were Lawe, then all the Sta<g ref="char:EOLhyphen"/>tutes that made any new Treaſon after the firſt yeere of <hi>Henery</hi> the fourth were voide in the very fabricke, and at the time when they were made, hence like<g ref="char:EOLhyphen"/>wiſe it would follow that the Parlia<g ref="char:EOLhyphen"/>ment now upon what occaſion ſoever hath noe power to make any thing Treaſon not declared to bee ſo in the Statute of the five and twentieth yeere of <hi>Edward</hi> the third; This your Lordſhippes ea<g ref="char:EOLhyphen"/>ſily ſee would make much for my Lord of
+<hi>Straffords</hi> advantage; but why the Law ſhould bee, ſo your Lordſhippes as yet have onely heard an affirmation of it, no reaſon.</p>
+                  <p>But ſome touch was given that this
+<pb n="41" facs="tcp:64185:39"/> Statute of the tenth yeere of
+<hi>Henery</hi> the ſeventh in words makes all the Iriſh Sta<g ref="char:EOLhyphen"/>tutes voide, which are contrary to the En<g ref="char:EOLhyphen"/>gliſh. The Anſwer to this is a deniall that there are any ſuch wordes in the Sta<g ref="char:EOLhyphen"/>tute: This Statute declares, that the En<g ref="char:EOLhyphen"/>gliſh Statutes ſhall bee effectuall and con<g ref="char:EOLhyphen"/>firmed in <hi>Ireland,</hi> and that all Statutes, be<g ref="char:EOLhyphen"/>fore time, made to the contrary ſhall bee revoked; this repeales onely the Iriſh Statutes of the tenth yeere of <hi>Henerie</hi> the fourth, and the nine and twentieth yeere of <hi>Henerie</hi> the ſixt, which ſay that the Engliſh Statutes ſhall not bee in force in
+<hi>Ireland,</hi> unleſſe particularly re<g ref="char:EOLhyphen"/>ceived in Parliament, It makes all the I<g ref="char:EOLhyphen"/>riſh Statutes voide, which ſay that the Engliſh Statutes ſhall not bee in force there.</p>
+                  <p>It is uſuall when a Statute ſaith, that ſuch a thing ſhall bee done or not done, to adde further that all Statutes to the contrary ſhall be voide.</p>
+                  <p>No likeli-hood that this Statute in<g ref="char:EOLhyphen"/>tended to take away any Statute of Trea<g ref="char:EOLhyphen"/>ſon; When but in the Chapter next be<g ref="char:EOLhyphen"/>fore this, Murder there is made Trea<g ref="char:EOLhyphen"/>ſon, as if done upon the Kinges Per<g ref="char:EOLhyphen"/>ſon.</p>
+                  <p>That this Statute of the eighteenth yeare of <hi>Harry</hi> the ſixt remaines on foote and not repealed either by the Statute of
+<pb n="42" facs="tcp:64185:40"/> the eighth yeere of <hi>Edward</hi> the fourth, or this of the tenth yeere of <hi>Henerie</hi> the ſeventh appeares expreſſely by two ſeverall Acts of Parliament made at the ſame Parliament of the tenth yeere of <hi>Henry</hi> the ſeventh.</p>
+                  <p>By an Acte of Parliament in <hi>Henry</hi> the ſixt time, in
+<hi>Ireland</hi> it was made Treaſon for any man to procure a pri<g ref="char:EOLhyphen"/>vie Seale, or any other Command what<g ref="char:EOLhyphen"/>ſoever, for apprehending any perſon in
+<hi>Ireland</hi> for Treaſon done without that Kingdome, and to put any ſuch Com<g ref="char:EOLhyphen"/>mand in execution; Diverſe had beene attaineted of Treaſon for executing ſuch Commands: Heere is a Treaſon ſoe made by Acte of Parliament in <hi>Henry</hi> the ſixt time<hi>:</hi> In the third Chapter of this Parliament of the tenth of <hi>Henry</hi> the ſeventh an Act is paſſed for no other end then to repeale this Statute of <hi>Henry</hi> the ſixt of Treaſon.</p>
+                  <p>If this Statute of <hi>Henry</hi> the ſixt of Treaſon, had beene formerly repealed by the Statute of 8. <hi>Edw.</hi> 4. or then by the two and twentieth Chapter of this Parlia<g ref="char:EOLhyphen"/>ment of 10. <hi>H.</hi> 7. by bringing in the En<g ref="char:EOLhyphen"/>gliſh Statutes, the Law-makers were much miſtaken now to make a particular Act of Parliament to repeale it, it be<g ref="char:EOLhyphen"/>ing likewiſe ſo unreaſonable an Act as it was.</p>
+                  <p>
+                     <pb n="43" facs="tcp:64185:40"/> In the eighth Chapter of this Parlia<g ref="char:EOLhyphen"/>ment of the tenth of <hi>Henry</hi> the ſeaventh; It's enacted, That the Statutes of <hi>Killken<g ref="char:EOLhyphen"/>ny</hi> and all other Statutes made in <hi>Ireland</hi> (two onely excepted, whereof this of the eighteenth of <hi>Henry</hi> the ſixt is none) for the Common-weale ſhall bee enquired off and executed. My Lord of
+<hi>Strafford</hi> ſaith, that the bringing in of the <hi>Engliſh</hi> Statutes hath repealed this Statute of the eighteenth yeere of <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the ſixt, the Acte of Parliament made the ſame time ſaith noe; it ſaith that all the Iriſh Statutes, excepting two, whereof this is none, ſhall ſtill bee in force.</p>
+                  <p>
+                     <hi>Object.</hi> Oh! But however it was in 10. <hi>Hen.</hi>
+7. yet it appeares by Judgement in Parliament afterwards, That this Statute of the eighteenth yeere of <hi>Henry</hi> the ſixt is repealed, and that is by the Parliament of the eleventh yeere of Queene <hi>Elizabeth,</hi> the ſeventh Chapter, <hi>That by this Parliament it is enacted, that if any man without li<g ref="char:EOLhyphen"/>cenſe from the Lord Deputie, lay any Soul<g ref="char:EOLhyphen"/>diers upon the Kings Subjects, if hee bee a Peere of the Realme, hee ſhall forfeite one hundred pounds, if under the degree of a Peere</hi> 100. markes. This Statute as is alleadged declares the penalty of laying Souldiers upon the Subjects to bee onely a hundred pounds; and therefore its not Treaſon.</p>
+                  <p>
+                     <pb n="44" facs="tcp:64185:41"/> 
+                     <hi>Anſwer.</hi> My Lords if the offence for which this penalty of one hundered pounds is laid upon the offender bee for laying Souliders, or leading them to doe any acts offenſive or invaſive upon the Kinges people, The Argument hath ſome force; but that the offence is not for laying Souldiers upon the true Subjects, that this is not the offence intended in the Statute will appeare to your Lordſhippes, <hi>Ex abſurdo,</hi> from the wordes of it.</p>
+                  <p>The words are, <hi>That if any man ſhall aſsem<g ref="char:EOLhyphen"/>ble the people of the Country together to con<g ref="char:EOLhyphen"/>clude of peace or warre, or ſhall carry thoſe people to doe any Acts offenſive or inva<g ref="char:EOLhyphen"/>ſive, then hee ſhall forfeite one hundred pounds;</hi> If concluding of warre and car<g ref="char:EOLhyphen"/>rying the people to Acts invaſive, bee a<g ref="char:EOLhyphen"/>gainſt the Kinges Subjects, this is high Treaſon within the words of the Statute of the five and twentieth yeere of
+<hi>Edward</hi> the third; For if any Subject ſhall aſſem<g ref="char:EOLhyphen"/>ble the people and conclude a warre, and accordingly ſhall leade them to invade the Subject, this is a levying of warre within the wordes of that Statute; and then the Sta<g ref="char:EOLhyphen"/>tutes of the five and twentieth yeer of <hi>Edward</hi> the third; the firſt of <hi>Henry</hi> the fourth; and the firſt of Queene <hi>Mary</hi> which the Earle of <hi>Strafford</hi> in his Anſwer deſires to bee try<g ref="char:EOLhyphen"/>ed by, are as well repealed in this point as
+<pb n="45" facs="tcp:64185:41"/> the Statute of the eighteenth yeere of
+<hi>Hen<g ref="char:EOLhyphen"/>rie</hi> the ſixt, hee might then without feare of Treaſon have done what hee plea<g ref="char:EOLhyphen"/>ſed with the Iriſh Army; for all the Statutes of levying warre, by this Sta<g ref="char:EOLhyphen"/>tute of the eleventh Yeere of Queene ELIZABETH were taken out of his way.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> In <hi>Ireland</hi> a Subject gathers forces, concludes a warre againſt the Kings peo<g ref="char:EOLhyphen"/>ple, actually invades them; blood-ſhedde, burning of houſes, Depredations enſue; two of thoſe, that is murder and burning of houſes are Treaſon, and there the other fellony; by this conſtruction the puniſhment of Treaſon and fellony is turned onely into a fine of one hundred pounds; from loſſe of life, lands and all his goods, onely to loſſe of part of his goods.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> The third abſurdity, a warre is concluded, three ſeverall Inrodes are made upon the Subject; in the firſt, a hundred pound Da<g ref="char:EOLhyphen"/>mage; in the ſecond, five thouſand pound Dammage; in the third, tenne thouſand pound Dammage is done to the Subjects, the penalty for the laſt inrode is no more then for the firſt, only one hundred pounds. This Statute by this conſtruction tells any man how to get his living without long labour.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> Two parts of the hundred pounds is gi<g ref="char:EOLhyphen"/>ven to the King, a third part to the informer,
+<pb n="46" facs="tcp:64185:42"/> heer's no dammage to the Subject that is robbed and deſtroyed.</p>
+                  <p>My Lords, the Statute will free it ſelfe and the makers of it from theſe abſurdi<g ref="char:EOLhyphen"/>ties.</p>
+                  <p>The meaning of this Statute is, <hi>That if any Captaine ſhall of his owne head conclude of peace or warre againſt the Kings Enemies or Rebels,</hi> or ſhall upon his owne head invade them, without warrant from the King of the Lord Deputie of <hi>Ireland,</hi> that then hee ſhall forfeite a hundred pounds.</p>
+                  <p>The offence is not for laying of Soul<g ref="char:EOLhyphen"/>diers upon the Kings people; but ma<g ref="char:EOLhyphen"/>king of warre againſt the Iriſh Rebells without warrant; the offence is not in the matter, but in the manner, for doing a thing lawfull, but without miſ<g ref="char:EOLhyphen"/>ſion.</p>
+                  <list>
+                     <item>1. This will appeare by the generall ſcope of the Stat. all the parts being put together.</item>
+                     <item>2. By particular clauſes in the Statute And,</item>
+                     <item>3. By the Condition of that Kingdome at the time of the making of that Statute.</item>
+                  </list>
+                  <p>For the firſt, The preamble recites that in time of Declination of Juſtice under pretext of defending the Country and them<g ref="char:EOLhyphen"/>ſelves, divers great men arrogated to them<g ref="char:EOLhyphen"/>ſelvs regal authority under the names of Cap<g ref="char:EOLhyphen"/>tains, that they acquired to themſelves that
+<pb n="47" facs="tcp:64185:42"/> government which belonged to the Crowne, for preventing of this Its enacted, that no man dwelling within the Shire grounds, ſhall thenceforth aſſume or take upon himſelfe the authority or name of a Captaine within thoſe Shire grounds, without Letters Pattents from the Crown, nor ſhall under colour of his Captaines<g ref="char:EOLhyphen"/>ſhip make any demand of the people of any exaction, nor as a Captaine aſſemble the people of the Shire grounds; nor as a Captaine ſhall leade thoſe people to doe any acts offenſive or invaſive without war<g ref="char:EOLhyphen"/>rant under the great Seale of
+<hi>England</hi> or of the Lord Deputie upon penalty that if hee doe any thing contrary to that act, then the Offendor ſhall forfeite a hundred pounds.</p>
+                  <p>My Lords, the Rebells had beene out, the Courts of juſtice ſcarce ſat, for defence of the Country diverſe uſurped the place of Captaines, concluded of warre againſt the Rebells &amp; invaded them without warrant; invading the Rebells without authority is the crime.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> This appeares further by particular clauſes in the Statute, none ſhall exerciſe any Captaineſhip within the Shire grounds, nor aſſemble the men of the Shire grounds to conclude of Warre, or leade them to any invaſion.</p>
+                  <p>That that had anciently beene ſo con<g ref="char:EOLhyphen"/>tinued to this time, that is the <hi>Iriſh</hi> and the
+<pb n="48" facs="tcp:64185:43"/> 
+                     <hi>Engliſh</hi> pale, they within the Shire grounds were within the <hi>Engliſh</hi> pale, and <hi>ad fidem &amp; legem Angliae;</hi> the <hi>Iriſh</hi> that were without the pale were enemies alwayes either in open act of hoſtility or upon leagues, and hoſtages given for ſecuring the peace, and therefore as heere in
+<hi>England,</hi> wee had our marches upon the frontiers in <hi>Scotland</hi> and <hi>Wales,</hi> ſo were there Marches betweene the <hi>Engliſh</hi> and
+<hi>Iriſh</hi> pale, where the inhabi<g ref="char:EOLhyphen"/>tants held their Landes by this tenure to defend the Country againſt the <hi>Iriſh,</hi> as appeares in the cloſe Rolls of the Tower in the 20. yeare of <hi>Edward</hi> the third,
+<hi>mem<g ref="char:EOLhyphen"/>brana</hi> 15. on the backſide, and in an <hi>Iriſh</hi> Par<g ref="char:EOLhyphen"/>liament held the 42. yeare of <hi>Edward</hi> the third. Its declared, that the <hi>Engliſh</hi> pale was almoſt deſtroyed by the <hi>Iriſh</hi> ene<g ref="char:EOLhyphen"/>mies, and that there was no way to pre<g ref="char:EOLhyphen"/>vent the danger, but onely that the owners reſide upon their Landes for defence, and that abſence ſhould bee a forfeiture, this act of Parliament in a great counſell heere was affirmed, as appeares in the cloſe Roll, the 22. yeare of <hi>Edward</hi> the third,
+<hi>membrana</hi> 20. dorſe.</p>
+                  <p>Afterwards as appeares in the Statute of the eight-and-twenty yeare of <hi>Henry</hi> the 6. in <hi>Ireland,</hi> this hoſtility continued betweene the <hi>Engliſh</hi> marches and the <hi>Iriſh</hi> enemies, who by reaſon there was no difference betweene the <hi>Engliſh</hi> marches and them
+<pb n="49" facs="tcp:64185:43"/> in their apparell, did daily not being known to the <hi>Engliſh,</hi> deſtroy the <hi>Engliſh</hi> within the pale. Therefore its enacted, that every <hi>Eng<g ref="char:EOLhyphen"/>liſhman ſhall ſhave the haire of his upper lip for diſtinction ſake.</hi> This hoſtility continued, till the tenth yeare of <hi>Henry</hi> the ſeaventh, as appeares by the Statute of the tenth of <hi>Henry</hi> the ſeaventh, the ſeaventeenth Chap<g ref="char:EOLhyphen"/>ter; and ſo ſucceſſively downewards, till the making of this very Statute of the eleaventh yeare of Queene
+<hi>Elizabeth,</hi> as appeares fully in the ninth Chap<g ref="char:EOLhyphen"/>ter.</p>
+                  <p>Nay immediatly before, and at the time of the making of this Statute, there was not onely emnity betweene thoſe of the Shire grounds that is the <hi>Engliſh</hi> and <hi>Iriſh</hi> pale, but open Warre and Acts of hoſtility, as appeares by Hiſtory of no leſſe authority, then that Statute it ſelfe, for in the firſt Chapter of this Sta<g ref="char:EOLhyphen"/>tute is the Attainder of <hi>Shane O Neale,</hi> who had made open Warre, was ſlaine in open Warre. Its there declared, that hee had gotten by force all the
+<hi>North</hi> of <hi>Ireland</hi> for an hundred and twenty miles in length, and above a 100. in bredth, that he had maſtered diverſe places within the
+<hi>Engliſh</hi> pale; when the flame of this warre by his death immediatly before this Statute was ſpent, yet the fire brands were not all quenched for the rebellion was
+<pb n="50" facs="tcp:64185:44"/> continued by <hi>John Fitz. Gerard</hi> called the white Knight, and <hi>Thomas Queverford,</hi> this appeares by the Statute of the thir<g ref="char:EOLhyphen"/>teenth yeare of Queene <hi>Elizabeth</hi> in
+<hi>Ireland,</hi> but two yeares after this of the eleaventh yeare of Queene
+<hi>Elizabeth,</hi> where they are attainted of high treaſon for levying Warre this eleaventh yeare, wherein this Statute was made.</p>
+                  <p>So that my Lords immediatly before, and at the time of the making of this Sta<g ref="char:EOLhyphen"/>tute, there being Warre betweene thoſe of the Shire grounds mentioned in this Statute; and the <hi>Iriſh,</hi> the concluding of Warre and Acts offenſive and invaſive there mentioned can bee intended a<g ref="char:EOLhyphen"/>gainſt no others, but the <hi>Iriſh</hi> ene<g ref="char:EOLhyphen"/>mies.</p>
+                  <p>Againe the words of the Statute are no Captaine ſhall aſſemble the people of the Shire grounds to conclude of peace or warre, is it to bee preſumed that thoſe of the Shire grounds will con<g ref="char:EOLhyphen"/>clude of Warre againſt themſelves? nor ſaith the Statute ſhall carry thoſe of the Shire grounds to doe any Acts invaſive; by the conſtruction which is made on the other ſide, they muſt bee carried to fight againſt themſelves.</p>
+                  <p>Laſtly the words are, as Captaine none ſhall aſſume the name or authority of a Captaine, or as a Captaine ſhall gather the
+<pb n="51" facs="tcp:64185:44"/> people together, or as a Captaine leade them. The offence is not in the matter, but in the manner: If the acts offenſive were againſt the Kings good ſubjects; thoſe that went under command were puniſhable, as well as the Commanders, but in reſpect, the Souldiers knew the ſervice to be good in it ſelfe being againſt the enemies, and that it was not for them to diſpute the authority of their commanders, the penalty of a 100. pounds is laid onely upon him, that as Captaine ſhall aſſume this power without warrant, the people commanded are not within the Statute.</p>
+                  <p>My Lords, the logicke whereupon this argument hath beene framed ſtands thus, becauſe the Statute of the eleaventh yeare of Queene
+<hi>Elizabeth</hi> inflicts a penalty of a 100. pound, and no more upon any man, that as a Captaine without warrant, and upon his owne head ſhall conclude of, or make Warre againſt the Kings enemies: therefore the Statute of the 18. yeare of <hi>Henry</hi> the ſixt, is repealed, which makes it treaſon to lay Souldiers upon, or to levy warre againſt the Kings good people.</p>
+                  <p>But my Lords obſervation hath bin made upon other words of this ſtatute, that is that without licence of the deputy; theſe things cannot bee done: This ſhewes, that the de<g ref="char:EOLhyphen"/>puty is within none of theſe Statutes.</p>
+                  <p>My Lords, this Argument ſtands upon
+<pb n="52" facs="tcp:64185:45"/> the ſame reaſon with the former, becauſe hee hath the ordering of the Army of <hi>Ire<g ref="char:EOLhyphen"/>land</hi> for the defence of the people, and may give warrant to the Officers of the Army upon eminent occaſions of invaſion to reſiſt or proſecute the enemy, becauſe of the dan<g ref="char:EOLhyphen"/>ger that elſe might enſue forthwith by ſtay<g ref="char:EOLhyphen"/>ing for a warrant from his Majeſty out of <hi>England;</hi> Therefore it is no treaſon in the Deputy to imploy the Army in <hi>Ireland</hi> whenſoever hee pleaſeth for the ſubverſion of the Kings good people, and of the lawes.</p>
+                  <p>My Lords, the Statute of the tenth yeare of <hi>Henry</hi> the ſeaventh, the ſeaventeenth Chapter touched upon for this purpoſe, cleares the buſines in both points, for there it is declared, that none ought to make warre upon the <hi>Iriſh</hi> rebells and enemies without warrant from the Lieutenant, the forfeiture a hundred pounds as here the Statute is the ſame with this, and might as well have beene cited for repealing the Statute of the eighteenth yeare of <hi>Henry</hi> the ſixt, as this of the eleaventh yeare of Queene <hi>Elizabeth:</hi> but if this had beene inſiſted upon it would have expounded the other two cleare againſt him.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Obj. </seg>
+                     </label> &gt;My Lords, it hath beene further ſaid al<g ref="char:EOLhyphen"/>though the ſtatute bee in force, and there be a treaſon within it, yet the Parliament hath no jurisdiction; the treaſons are committed in
+<hi>Ireland,</hi> therefore not triable here.</p>
+                  <p>
+                     <pb n="53" facs="tcp:64185:45"/> 
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>
+                     </label> My Lords, Sir
+<hi>John Perrot</hi> his predeceſ<g ref="char:EOLhyphen"/>ſors in the 24. yeare of Queene
+<hi>Elizabeth</hi> was tried in the Kings bench for treaſon done in
+<hi>Ireland,</hi> when hee was Deputy; and <hi>Orucke</hi> in the 33. yeare of Queene <hi>Elizabeth</hi> judged heere for treaſon done in
+<hi>Ireland.</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Obj. </seg>
+                     </label> But it will bee ſaid, theſe trialls were af<g ref="char:EOLhyphen"/>ter the Statute of the foure-and-thirtieth yeare of
+<hi>Henry</hi> the eight, which enacts, that treaſons beyond ſea may bee tried in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>
+                     </label> My Lords, his predeceſſor my Lord <hi>Gray</hi> was tried and adjudged here in the Kings bench, that was in Trinity tearme in the three-and-thirtie yeare of <hi>Henry</hi> the eight, this was before the making of that Statute.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Obj. </seg>
+                     </label> To this againe will bee ſaid, that it was for treaſon by the Lawes and Statutes of <hi>England,</hi> but this is not for anything, that's treaſon by the Law of <hi>England,</hi> but by an
+<hi>Iriſh</hi> Statute.</p>
+                  <p>So that the queſtion is onely whether your Lordſhips in Parliament heere have cognizance of an offence made treaſon by an
+<hi>Iriſh</hi> Statute in the ordinary way of ju<g ref="char:EOLhyphen"/>dicature without bill, for ſo is the preſent queſtion.</p>
+                  <p>For the clearing of this, I ſhall pro<g ref="char:EOLhyphen"/>pound two things to your Lordſhips conſi<g ref="char:EOLhyphen"/>deration;</p>
+                  <p>
+                     <pb n="54" facs="tcp:64185:46"/> 
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> Whether the rule for expounding the <hi>Iriſh</hi> Statutes and cuſtomes bee one, and the ſame in <hi>England</hi> as in <hi>Ireland.</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> That being admitted whether the Parli<g ref="char:EOLhyphen"/>aments in <hi>England</hi> have cognizance or juriſ<g ref="char:EOLhyphen"/>diction of things there done in reſpect of the place, becauſe the Kings writ runnes not there.</p>
+                  <p>For the firſt, if in reſpect of the place, the Parliament here hath cognizance there; And ſecondly, if the rules for expounding the
+<hi>Iriſh</hi> Statutes and Cuſtomes bee the ſame here as there, this exception as I hum<g ref="char:EOLhyphen"/>bly, conceive muſt fall away.</p>
+                  <p>In <hi>England</hi> there is the common law, the Statutes, the acts of Parliament and cu<g ref="char:EOLhyphen"/>ſtomes peculiar to certaine places differing from the common law, if any queſtion ariſe concerning either a cuſtome or an act of Parliament, the common law of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> the firſt, the primative and the gene<g ref="char:EOLhyphen"/>rall law, that's the rule and expoſitour of them and of their ſeverall extents, it is ſo heere, it is ſo in <hi>Ireland;</hi> the common law of <hi>England,</hi> is the common law of <hi>Ireland</hi> likewiſe; the ſame here and there in all the parts of it.</p>
+                  <p>It was introduced into <hi>Ireland</hi> by King <hi>John,</hi> and afterwards by King <hi>Harry</hi> the third, by act of Parliament held in
+<hi>England</hi> as appeares by the pattent Rolls of the 30. yeare of King
+<hi>Henry</hi> the third, the firſt
+<pb n="55" facs="tcp:64185:46"/> 
+                     <hi>membrana.</hi> The words are, <hi>Quia pro commu<g ref="char:EOLhyphen"/>ni utilitate terrae Hiberniae, &amp; unitate terrarum Regis, Rex vult, &amp; de communi conſilio Regis proviſum est, quod omnes leges &amp; conſuetudines quae in regno Angliae tenentur, in Hibernia te<g ref="char:EOLhyphen"/>neantur, &amp; eadem terra eiſdem legibus ſubja<g ref="char:EOLhyphen"/>ceat, &amp; per eaſdem regatur, ſicut Dominus</hi> Jo<g ref="char:EOLhyphen"/>hannes <hi>Rex cum ultimo eſſet in Hibernia ſtatuit, &amp; fierimandavit. Quia &amp;c. Rex vult quod omnia brevia de communi Jure quae currunt in Anglia, ſimiliter currant in Hibernia ſub novo ſigillo Regis, mandatum eſt Archiepiſcopis, &amp;c. quod pro pace &amp; tranquillitate ejuſdem terrae, per caſdem leges eos regi &amp; deduci per<g ref="char:EOLhyphen"/>mittant, &amp; ea <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> omnibus ſequantur. In cujus &amp;c. Teſte Rege, apud Woodſtock, decimo none die Septembris.</hi>
+                  </p>
+                  <p>Here's an union of both Kingdomes, and that by act of Parliament, and the ſame Lawes to bee uſed here as there, in
+<hi>om<g ref="char:EOLhyphen"/>nibus.</hi>
+                  </p>
+                  <p>My Lords, That nothing might bee left here for an exception, that is, that in treaſons, felonies, and other capitall offences concer<g ref="char:EOLhyphen"/>ning life, the Iriſh lawes are not the ſame as here, Therefore it is enacted in a Parliament held in England in the fourteenth yeere of <hi>Edward</hi> the ſecond (it is not in print neither, but is in the Parliament book) That the Laws concerning life and member ſhall be the ſame in Ireland as in England.</p>
+                  <p>And that no exception might yet remaine,
+<pb n="56" facs="tcp:64185:47"/> in a Parliament held in England, the fifth yeere of <hi>Edward</hi> the third, It is enacted, <hi>quod una &amp; eadem Lex fiat tam Hibernicis quam Anglicis.</hi> This Act is enrolled in the Patent rolls of the fifth yeere of <hi>Edward</hi> the third, <hi>part.</hi> 1.
+<hi>memb.</hi> 35.</p>
+                  <p>The Iriſh therefore receiving their Lawes from hence, they ſend their Students at Law to the Innes of Courts in England, where they receive their degree; and of them, and of the common Lawyers of this Kingdome are the Judges made.</p>
+                  <p>My Lords, The petitions have been many from Ireland, to ſend from hence ſome Judges more learned in the Lawes then thoſe they had there.</p>
+                  <p>It hath been frequent in caſes of difficulty there, to ſend ſometimes to the Parliament here, ſometimes to the King by advice from the Judges here, to ſend them reſolutions of their doubts: Amongſt many I'll cite your Lordſhips onely one, becauſe it is in a caſe of Treaſon upon an Iriſh Statute, and therefore full to this point.</p>
+                  <p>By a Statute there made in the fifth yeere of <hi>Edward</hi> the fourth, there is proviſion made for ſuch as upon ſuggeſtions are committed to priſon for Treaſon, that the party commit<g ref="char:EOLhyphen"/>ted, if he can procure 24. Compurgators, ſhall be bailed, and let out of priſon.</p>
+                  <p>Two Citizens of Dublin were by a grand Jury preſented to have committed Treaſon;
+<pb n="57" facs="tcp:64185:47"/> They deſired the benefit of this Statute, that they might bee let out of priſon upon tender of their Compurgators. The words of the Statute of the fifth yeere of <hi>Edward</hi> the fourth in Ireland being obſcure, the Judges there not being ſatisfied what to doe, ſent the caſe over to the Queene, deſired the opinion of the Judges here; which was done accordingly: The Judges here ſent over their opinion, which I have out of the Booke of Juſtice <hi>Anderſon,</hi> one of the Judges conſulted withall. The Judges here delivered opinion upon an Iriſh Statute in caſe of Treaſon.</p>
+                  <p>If it bee objected, That in this caſe the Judges here did not judge upon the party; their opinions were onely <hi>ad informandum conſcientiam</hi> of the Judges in Ireland; that the judgement belonged to the Judges there:</p>
+                  <p>My Lords, with ſubmiſſion, this and the other Authorities prove that for which they were cited; that is, That no abſurdity, no failer of Juſtice would enſue if this great Ju<g ref="char:EOLhyphen"/>dicatory ſhould judge of Treaſon ſo made by an Iriſh Statute.</p>
+                  <p>The common Law, the rule of Judging upon an Iriſh Statute, the pleas of the Crowne for things of life and death, are the ſame here and there. This is all that hath yet been offered.</p>
+                  <p>For the ſecond point, That England hath no power of Judicature for things done in Ire<g ref="char:EOLhyphen"/>land; My Lords, the conſtant practice of all ages proves the contrary.</p>
+                  <p>
+                     <pb n="58" facs="tcp:64185:48"/> Writs of errour in Pleas of the Crowne as well as in civill cauſes, have in all Kings reignes beene brought here, even in the infe<g ref="char:EOLhyphen"/>riour Courts of Weſtminſter Hall, upon judgements given in the Courts of Ireland: The practice is ſo frequent, &amp; ſo well known, as that I ſhall cite none of them to your Lord<g ref="char:EOLhyphen"/>ſhips: no preſident will I beleeve bee pro<g ref="char:EOLhyphen"/>duced to your Lordſhips, that ever the caſe was remanded back againe into Ireland, be<g ref="char:EOLhyphen"/>cauſe the queſtion roſe upon an Iriſh Statute or cuſtome.</p>
+                  <p>But it will be ſaid, That writs of errour are only upon a failer of juſtice in Ireland; and that ſuits cannot originally be commenced here for things done in Ireland, becauſe the Kings writ runs not in Ireland.</p>
+                  <p>This might bee a good plea in the Kings Bench, and inferiour Courts at Weſtminſter Hall; the queſtion is, whether it bee ſo in Par<g ref="char:EOLunhyphen"/>liament. The Kings writ runs not within the County Palatine of Cheſter and Durham, nor within the five Ports; neither did it in Wales before the union in <hi>Henry</hi> the eighth's time, af<g ref="char:EOLunhyphen"/>ter the Lawes of England were brought into Wales in King <hi>Edward</hi> the firſt's time, ſuits were not originally commenced in Weſtminſt. Hall, for things done in them, yet this never excluded the Parliament: ſuits for life, lands, and goods within thoſe juriſdictions are de<g ref="char:EOLhyphen"/>terminable in Parliament, as well as in any o<g ref="char:EOLhyphen"/>ther parts of the Realme.</p>
+                  <p>
+                     <pb n="59" facs="tcp:64185:48"/> Ireland, as appeares by the Statute of the thirtieth yeer of <hi>Henry</hi> the third, before mentioned, is united to the Crowne of England.</p>
+                  <p>By the Statute of the eight and twentieth yeere of
+<hi>Henry</hi> the ſixth in Ireland, it is declared in theſe words; That Ireland is the proper Dominion of England, and united to the Crowne of England, which Crowne of England is of it ſelfe, and by it ſelfe, fully, wholly, and entirely endowed with all power and authority ſufficient to yeeld to the ſubjects of the ſame full and plenary remedy in all debates and ſuits whatſoever.</p>
+                  <p>By the Statute of the three and thirtieth yeer of
+<hi>Henry</hi> the eighth, the firſt Chapter, when the Kings of England firſt aſſumed the title of King of Ire<g ref="char:EOLhyphen"/>land, it is there enacted, That Ireland ſtill is to bee held as a Crown annexed and united to the Crown of England.</p>
+                  <p>So that by the ſame reaſon, from this, that the Kings writ runs not in Ireland, it might aſwell bee held, that the Parliament cannot originally hold plea of things done within the County Palatine of Che<g ref="char:EOLhyphen"/>ſter &amp; Durham, nor within the five Ports &amp; Wales; Ireland is part of the Realme of England, as appears by thoſe Statutes, aſwell as any of them.</p>
+                  <p>This is made good by conſtant practice. In all the Parliament rolls, from the firſt to the laſt, there are receivers and tryers of petitions appointed for Ireland. For the Iriſh to come ſo farre with their petitions for juſtice, and the Parliament not to have cognizance, when from time to time they had in
+<pb n="60" facs="tcp:64185:49"/> the beginning of the Parliament appointed recei<g ref="char:EOLhyphen"/>vers and tryers of them, is a thing not to bee pre<g ref="char:EOLhyphen"/>ſumed.</p>
+                  <p>An appeale in Ireland brought by <hi>William</hi> Lord
+<hi>Veſcye</hi> againſt <hi>John Fitz Thomas</hi> for treaſonable words there ſpoken, before any Judgement given in the caſe there, was removed into the Parliament in England, and there the defendant acquitted, as appeares in the Parliament pleas of the two and twentieth yeere of <hi>Edward</hi> the firſt.</p>
+                  <p>The ſuits for lands, offices, and goods, originally begun here, are many; and if queſtion grew upon matter in fact, a Jury uſually ordered to try it, and the verdict returned into Parliament, as in the caſe of one <hi>Balliben,</hi> in the Parliament of the five and thirtieth yeere of
+<hi>Edward</hi> the firſt. If doubt aroſe upon a matter triable by Record, a writ went to the Officers in whoſe cuſtody the Record remained, to certifie the Record, as was in the caſe of <hi>Robert Bagot</hi> the ſame Parliament of the five and thirtieth yeere of <hi>Edward</hi> the firſt, where the writs went to the Treaſurer and Barons of the Exchequer.</p>
+                  <p>Sometimes they gave judgement here in Par<g ref="char:EOLhyphen"/>liament, and commanded the Judges there in Ire<g ref="char:EOLhyphen"/>land to doe execution, as in the great caſe of peti<g ref="char:EOLhyphen"/>tion between the coparceners of the Earle Marſhall, in the Parliament of the three and thirtieth yeere of <hi>Edward</hi> the firſt, where the writ was awarded to the Treaſurer of Ireland.</p>
+                  <p>My Lords, The Lawes of Ireland were intro<g ref="char:EOLhyphen"/>duced by the Parliaments of England, as appeares
+<pb n="61" facs="tcp:64185:49"/> by three Acts of Parliament before cited.</p>
+                  <p>It is of higher juriſdiction <hi>dare Leges,</hi> then to judge by them.</p>
+                  <p>The Parliaments of England doe binde in Ire<g ref="char:EOLhyphen"/>land, if Ireland bee particularly mentioned, as is re<g ref="char:EOLhyphen"/>ſolved in the Book caſe of the firſt yeere of <hi>Henry</hi> the ſeventh, <hi>Cokes</hi> ſeventh Report,
+<hi>Calvins</hi> caſe, and by the Judges in Trinity Terme, in the three and thirtieth yeere of Queene <hi>Elizabeth:</hi> The Statute of the eighth yeere of <hi>Edward</hi> the fourth, the firſt Chapter in Ireland recites, that it was doubted a<g ref="char:EOLhyphen"/>mongſt the Judges, whether all the Engliſh Statutes, though not naming Ireland, were in force there; if named, no doubt.</p>
+                  <p>From King <hi>Henry</hi> the third his time downward to the eighth yeere of Queene <hi>Elizabeth</hi> (by which Statute it is made felony to carry ſheepe from Ire<g ref="char:EOLhyphen"/>land beyond ſeas) in almoſt all theſe Kings reignes there be Statutes made concerning Ireland.</p>
+                  <p>The exerciſing of the <hi>Legiſlative</hi> power there over their lives and eſtates, is higher then of the Ju<g ref="char:EOLhyphen"/>diciall in queſtion. Untill the nine and twentieth yeere of <hi>Edward</hi> the third, erroneous judgements given in Ireland were determinable no where but in England; no, not in the Parliaments of Ireland, as it appeares in the cloſe rolls in the Tower, in the nine and twentieth yeere of <hi>Edward</hi> the third,
+<hi>membr.</hi> 12. Power to examine and reverſe errone<g ref="char:EOLhyphen"/>ous judgements in the Parliaments of Ireland is granted from hence; Writs of errour lie in the Par<g ref="char:EOLhyphen"/>liament hereupon erroneous judgements after that
+<pb n="62" facs="tcp:64185:50"/> time given in the Parliaments of Ireland, as appears in the Parliament rolls of the eighth yeere of <hi>Henry</hi> the ſixth, <hi>no.</hi> 70. in the caſe of the Prior of Len<g ref="char:EOLhyphen"/>than. It is true, the caſe is not determined there, for it's the laſt thing that came into the Parliament, and could not be determined for want of time; but no exception at all is taken to the juriſdiction.</p>
+                  <p>The Acts of Parliament made in Ireland have bin confirmed in the Parliaments of England, as ap<g ref="char:EOLhyphen"/>pears by the cloſe rolls in the Tower, in the two and fortieth yeere of <hi>Edward</hi> the third, <hi>memb.</hi> 20.
+<hi>dorſo;</hi> where the Parliament in Ireland, for the preſervation of the Countrey from the Iriſh, who had almoſt de<g ref="char:EOLhyphen"/>ſtroyed it, made an Act, that all the land owners that were Engliſh ſhould reſide upon their lands, or elſe they were to bee forfeited: This was here con<g ref="char:EOLhyphen"/>firmed.</p>
+                  <p>In the Parliament of the fourth yeer of <hi>Henry</hi> the fifth, <hi>chap.</hi> 6. Acts of Parliament in Ireland are con<g ref="char:EOLhyphen"/>firmed, and ſome priviledges of the Peeres in the Parliaments there are regulated.</p>
+                  <p>Power to repeale Iriſh Statutes, power to con<g ref="char:EOLhyphen"/>firme them, cannot be by the Parliament here, if it hath not cognizance of their Parliaments, unleſſe it be ſaid, That the Parliament may doe it knowes not what.</p>
+                  <p>Garneſey and Jerſey are under the Kings ſubjecti<g ref="char:EOLhyphen"/>on, but are not parcels of the Crowne of England, but of the Duchy of Normandy; they are not go<g ref="char:EOLhyphen"/>verned by the Lawes of England, as Ireland is; and yet Parliaments in England have uſually held plea
+<pb n="63" facs="tcp:64185:50"/> of, and determined all cauſes concerning lands or goods. In the Parliament of 33. <hi>H.</hi> i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> there be <hi>plactia de Inſula Jerneſey;</hi> and ſo in the Parliament 14. <hi>E. 2.</hi> and ſo for Normandy and Gaſcoyne; and alwaies as long as any part of France was in ſubjection to the Crown of England, there were, at the beginning of the Parliaments, receivers and tryers of petitions for thoſe parts appointed.</p>
+                  <p>I beleeve your Lordſhips will have no caſes ſhewed of any plea to the juriſdiction of the Parli<g ref="char:EOLhyphen"/>aments of England, in any things done in any parts whereſoever in ſubjection to the Crowne of England.</p>
+                  <p>The laſt thing I ſhall offer to your Lordſhips is the caſe of 19. <hi>El.</hi> in my Lord <hi>Dyer</hi> 306. and Judge
+<hi>Cromptons</hi> book of the juriſdiction of Courts, <hi>fol.</hi> 23. The opinion of both theſe Books is, That an Iriſh Peer is not triable here. It's true, a Scotiſh or French Nobleman is triable here as a common perſon; the Law takes no notice of their Nobility becauſe thoſe Countries are not governed by the Lawes of Eng<g ref="char:EOLhyphen"/>land; but Ireland, being governed by the ſame Laws, the Peers there are triable according to the Law of England, onely
+<hi>per pares.</hi>
+                  </p>
+                  <p>By the ſame reaſon the Earle of Strafford, not being a Peere of Ireland, is not triable by the Peers of Ireland; ſo that if hee bee not triable here, hee is triable no where.</p>
+                  <p>My Lords, In caſe there be a Treaſon and a Trai<g ref="char:EOLhyphen"/>tor within the Statute, and that he be not triable here for it in the ordinary way of judicature, if that juriſ<g ref="char:EOLhyphen"/>diction
+<pb n="64" facs="tcp:64185:51"/> failes, this by way of Bill doth not; Attain<g ref="char:EOLhyphen"/>ders of Treaſon in Parliament are as legall, as uſuall by Act of Parliament as by Judgement.</p>
+                  <p>I have now done with the Statutes of 25. <hi>E.</hi> 3. and
+18. <hi>H.</hi> 6. My Lord of Strafford hath offended a<g ref="char:EOLhyphen"/>gainſt both the Kingdomes, and is guilty of high Treaſon by the Lawes of both.</p>
+                  <p>5 My Lords, In the fifth place I am come to the Treaſons at the common Law, The endevouring to ſubvert the fundamentall Lawes and government of the Kingdome, and to introduce an arbitrary and tyrannicall government.</p>
+                  <p>In this I ſhall not at all labour to prove, that the endevouring by words, counſels, and actions to ſub<g ref="char:EOLhyphen"/>vert the Lawes, is treaſon at the common Law; if there be any common Law treaſons at all left; no<g ref="char:EOLhyphen"/>thing treaſon, if this not, to make a Kingdome no Kingdome: take the politic and government away, England's but a piece of earth, wherein ſo many men have their commorancy &amp; abode, without ranks or diſtinction of men, without propertie in anything further then poſſeſſion; no Law to puniſh the mur<g ref="char:EOLhyphen"/>dering or robbing one another.</p>
+                  <p>That of 33. <hi>H.</hi> 8. of introducing the Imperiall Law, ſticks not with your Lordſhips: It was in caſe of an appeal to Rome; theſe appeals in caſes of marriages, &amp; other cauſes counted Eccleſiaſticall, had been fre<g ref="char:EOLhyphen"/>quent, had in moſt Kings reigns been tolerated; ſome in times of Popery put a conſcience upon them, the Statutes had limited the penalty to a <hi>Premunire</hi> on<g ref="char:EOLhyphen"/>ly: Neither was that a totall ſubverſion, only an Ap<g ref="char:EOLhyphen"/>peale
+<pb n="65" facs="tcp:64185:51"/> from the Eccleſiaſticall Court here in a ſingle cauſe to the Court at Rome; and it treaſon or not, that caſe proves not; a treaſon may be puniſhed as a felony, a felony as a treſpaſſe, if his Majeſty ſo pleaſe; the greater includes the leſſer: In the caſe of <hi>Premu<g ref="char:EOLhyphen"/>nire</hi> in the Iriſh reports, that which is there declared to be treaſon, proceeded upon only as a
+<hi>Premunire.</hi>
+                  </p>
+                  <p>The thing moſt conſiderable in this, is whether the treaſons at common Law be taken away by the Stat. of 25. <hi>E.</hi> 3. 1.
+<hi>H.</hi> 4. or 1. Q. <hi>M.</hi> or any of them.</p>
+                  <p>My Lords, To ſay they bee taken away by the Stat. of 25.
+<hi>E.</hi> 3. is to ſpeak againſt both the direct words and ſcope of that Statute.</p>
+                  <p>In it there's this clauſe, <hi>That becauſe many other like caſes of treaſon might fall out which are not there decla<g ref="char:EOLhyphen"/>red, therefore it is enacted, That if any ſuch caſe come before the Judges, they ſhall not proceed to judgement till the caſe bee declared in Parliament, whether it ought to be adjudged treaſon, or not.</hi>
+                  </p>
+                  <p>Theſe words, and the whole ſcope of that Statute ſhowes, That it was not the meaning to take away a<g ref="char:EOLhyphen"/>ny treaſons that were ſo before; but onely to regu<g ref="char:EOLhyphen"/>late the juriſdiction and manner of tryall. Thoſe that were ſingle &amp; certain Acts, as Conſpiring the Kings death, Levying warre, Counterfeiting the money, or great Seal, Killing a Judge, theſe are left to the ordi<g ref="char:EOLhyphen"/>dinary Courts of Juſtice: The others not depending upon ſingle Acts, but upon conſtructions and neceſ<g ref="char:EOLhyphen"/>ſary inferences, they thought it not fit to give the in<g ref="char:EOLhyphen"/>feriour Courts ſo great a latitude here, as too dange<g ref="char:EOLhyphen"/>rous to the ſubject, thoſe they ſtrained to the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+                  <p>
+                     <pb n="66" facs="tcp:64185:52"/> This Statute was the great ſecurity of the ſubject, made with ſuch wiſdome as all the ſucceeding ages have approved it: It hath often paſſed through the fornace but, like gold, hath loſt little or nothing.</p>
+                  <p>The Statute of 1. <hi>H.</hi> 4. <hi>cap.</hi> 10. is in theſe words, <hi>Whereas in the Parliament held the</hi> 21. <hi>yeere of</hi> Ri<g ref="char:EOLhyphen"/>chard <hi>the ſecond, divers paines of treaſons were ordai<g ref="char:EOLhyphen"/>ned inſomuch, that no man did know how to behave himſelfe, to doe, ſay, or ſpeake, It is accorded, that in no time to come any treaſon be adjudged otherwiſe then it was ordained by the Statute of</hi> 25. E. 3.</p>
+                  <p>It hath bin ſaid, To what end is this Statute made, if it takes not away the common Law treaſons re<g ref="char:EOLhyphen"/>maining after the Statute of 25.
+<hi>E.</hi> 3.</p>
+                  <p>There be two maine things which this Statute doth: Firſt, it takes away for the future all the Treaſons made by any Statute ſince 25.
+<hi>Ed.</hi> 3. to 1. <hi>Hen.</hi> 4. even to that time<hi>:</hi> For, in re<g ref="char:EOLhyphen"/>ſpect that by another Act in that Parliament, the Statute of 21.
+<hi>E.</hi> 2. was repealed, it will not bee denyed, but that this Statute repeales more treaſons then theſe of 21. <hi>E.</hi> 2. it repeals all Statute treaſons but thoſe in 25. <hi>E.</hi> 3.</p>
+                  <p>Secondly, It not only takes away the Statute trea<g ref="char:EOLhyphen"/>ſons, but likewiſe the declared treaſons in Parlia<g ref="char:EOLhyphen"/>ment after 25. <hi>E.</hi> 3. as to the future. After declaration in Parliament the inferiour Courts might judge theſe treaſons; for the declaration of a treaſon in Parlia<g ref="char:EOLhyphen"/>ment, after it was made, was ſent to the inferiour Courts, that <hi>toties quoties</hi> the like caſe fell out, they might proceed therein; the ſubject for the future
+<pb n="67" facs="tcp:64185:52"/> was ſecured againſt theſe; ſo that this Statute was of great uſe.</p>
+                  <p>By the very words of it, it ſtill referrs all trea<g ref="char:EOLhyphen"/>ſons to the proviſion of 25. <hi>E.</hi> 3. it leaves that entire and upon his old bottome.</p>
+                  <p>The Statute of 1. <hi>Q. M. cap.</hi> 1. ſaith <hi>That no offen<g ref="char:EOLhyphen"/>ces made treaſon by any Act of Parliament, ſhall thence<g ref="char:EOLhyphen"/>forth be taken or adjudged to bee treaſon, but onely ſuch as be declared and expreſſed to bee treaſon by the Statute of</hi> 25. E. 3. <hi>concerning treaſon, or the declaration of trea<g ref="char:EOLhyphen"/>ſon and no others: And further provides that no pains of death, penaltie, or forfeiture, in any wiſe ſhall enſue for committing any treaſon, other then ſuch as be in the Statute of</hi>
+25. E. 3. <hi>ordained and provided any Acts of Parliament or any declaration, or matter to the contra<g ref="char:EOLhyphen"/>ry, in any wiſe notwithſtanding.</hi>
+                  </p>
+                  <p>By the firſt part of this Statute, onely offences made Treaſon by Act of Parliament are taken a<g ref="char:EOLhyphen"/>way, the Common Law Treaſons are no way touched: The words <hi>(and no others)</hi> refer ſtill to of<g ref="char:EOLhyphen"/>fences made treaſon by Act of Parliament; they re<g ref="char:EOLhyphen"/>ſtraine not to the treaſons onely particularly men<g ref="char:EOLhyphen"/>tioned in the Statute of 25. <hi>E.</hi> 3. but leave that Sta<g ref="char:EOLhyphen"/>tute entire as to the common Law treaſon, as ap<g ref="char:EOLhyphen"/>pears by the words immediatly foregoing.</p>
+                  <p>By the ſecond part for the paines and forfeitures of treaſons, if it intend only the puniſhment of trea<g ref="char:EOLhyphen"/>ſon, or if it intend both treaſon and puniſhment, yet all is referred to the proviſion and ordinance of 25. <hi>E.</hi> 3. any Act of Parliament or other declaration or thing notwithſtanding.</p>
+                  <p>
+                     <pb n="68" facs="tcp:64185:53"/> It ſaith not, other then ſuch penalties or treaſons as are expreſſed and declared in the Statute of 25.
+<hi>E.</hi> 3 that might perhaps have reſtrained it to thoſe that are particularly mentioned: No, it referrs all treaſons to the generall ordination and proviſion of that Statute, wherein the common-Law-trea<g ref="char:EOLhyphen"/>ſons are expreſly kept on foot.</p>
+                  <p>If it bee askt what good this Statute doth if it take not away the common-Law-treaſons:</p>
+                  <p n="1">1. It takes away all the treaſons made by Act of Parliament, not onely ſince the firſt of <hi>H.</hi> 4. which weremany, but all before 1. <hi>H.</hi> 4. even untill 25. <hi>E.</hi> 3. by expreſſe words.</p>
+                  <p n="2">2. By expreſſe words, it takes away all declared treaſons, if any ſuch had been made in Parliament: theſe for the future are likewiſe taken away; ſo that whereas it might have been doubted, whether the Statute of 1. <hi>H.</hi> 4. took away any treaſons but thoſe of 21. <hi>Richard</hi> 2. this clears it both for trea<g ref="char:EOLhyphen"/>ſons made by Parliament, or declared in Parlia<g ref="char:EOLhyphen"/>ment, even to the time of making the Statute.</p>
+                  <p>This is of great uſe, of great ſecurity to the ſub<g ref="char:EOLhyphen"/>ject; ſo that as to what ſhall be treaſon, and what not, the Statute of 25.
+<hi>E.</hi> 3. remaines entire, and ſo by conſequence the treaſons at the common Law.</p>
+                  <p>Onely, my Lords, it may be doubted whether the manner of the parliamentary proceedings bee not altered by the Statute of 1. <hi>H.</hi> 4. the 17. chapter, and more fully in the Parliament roll, number 144. that is, whether ſince that Statute the parliamen<g ref="char:EOLhyphen"/>tary power of declaration of treaſons, whereby
+<pb n="69" facs="tcp:64185:53"/> the inferiour Courts received juriſdiction, be not taken away and reſtrained onely to Bill, that ſo it might operate no further then to that particular contained in the Bill; that ſo the parliamentary declarations for after times, ſhould be kept within the Parliament it ſelfe, and be extended no further. Since 1. <hi>H.</hi> 4. we have not found any ſuch declara<g ref="char:EOLhyphen"/>tions made, but all Attainders of treaſon have bin by Bill.</p>
+                  <p>If this be ſo, yet the common Law treaſons ſtill remaining, there is one and the ſame ground of rea<g ref="char:EOLhyphen"/>ſon and equity ſince
+1. <hi>H.</hi> 4. for paſſing of a Bill of treaſon, as was before for declaring of it without Bill.</p>
+                  <p>Herein the <hi>Legislative</hi> power is not uſed againſt my Lord of Strafford in the Bill, its onely the ju<g ref="char:EOLhyphen"/>riſdiction of the Parliament.</p>
+                  <p>But, my Lords, becauſe that either through my miſtaking of the true grounds and reaſons of the Commons, or my not preſſing of them with apt arguments and preſidents of former times, or that perchance your Lordſhips from ſome other rea<g ref="char:EOLhyphen"/>ſons and authorities, more ſwaying with your Lordſhips judgements, then theſe from them, may poſſibly bee of a contrary or dubious opi<g ref="char:EOLhyphen"/>nion concerning theſe treaſons, either upon the Statutes of 25. <hi>E.</hi> 3. &amp; 18. <hi>H.</hi> 6. or at the com<g ref="char:EOLhyphen"/>mon Law:</p>
+                  <p>If all theſe five ſhould faile, they have there<g ref="char:EOLhyphen"/>fore given me further in command to declare to your Lordſhips ſome of their reaſons, why they
+<pb n="70" facs="tcp:64185:54"/> conceive that in this caſe the meer
+<hi>Legiſlative</hi> pow<g ref="char:EOLhyphen"/>er may be exerciſed.</p>
+                  <p>Their reaſons are taken from theſe three grounds:
+<list>
+                        <item>1 From the nature and quality of the offence.</item>
+                        <item>2 From the frame and conſtitution of the Parlia<g ref="char:EOLhyphen"/>ment wherein this Law is made.</item>
+                        <item>3 From practiſes and uſages of former times.</item>
+                     </list>
+                  </p>
+                  <p>The horridneſſe of the offence in endevouring the overthrowing the Lawes and preſent governe<g ref="char:EOLhyphen"/>ment, hath beene fully opened to your Lordſhips heretofore.</p>
+                  <p>The Parliament is the repreſentation of the whole Kingdome, wherein the King as Head, your Lord<g ref="char:EOLhyphen"/>ſhips as the more noble, and the Commons the other members, are knit together into one Body politick: This diſſolves the arteries and ligaments that hold the Body together, the Lawes: Hee that takes away the Laws, takes not away the allegeance of one ſub<g ref="char:EOLhyphen"/>ject alone, but of the whole Kingdome.</p>
+                  <p>It was made treaſon by the Statute of 13. <hi>El.</hi> for her time, to affirme, That the Lawes of the Realme doe not binde the deſcent of the Crowne; no Law, no deſcent at all.</p>
+                  <p>No Lawes, no Peerage, no ranks or degrees of men; the ſame condition to all.</p>
+                  <p>It's treaſon to kill a Judge upon the Bench; this kils not
+<hi>Iudicem, ſed Iudicium:</hi> Hee that borrowed <hi>Apelles,</hi> and gave bond to returne again <hi>Apelles</hi> the Painter, ſent him home after he had cut off his right hand; his bond was broken, <hi>Apelles</hi> was ſent, but not the Painter. There bee twelve men, but no
+<pb n="71" facs="tcp:64185:54"/> law; there's never a Judge amongſt them.</p>
+                  <p>Its felony to embezill any one of the judiciall Records of the Kingdome; this at once ſweeps them all away, and from all.</p>
+                  <p>Its treaſon to counterfeit a twenty ſhill-piece, here's a counterfeiting of the Law, we can call neither the counterfeit nor true coine our owne.</p>
+                  <p>Its treaſon to counterfeit the great Seale for an acre of land; no property hereby is left to any land at all. Nothing treaſon now, either againſt King or Kingdome, no law to puniſh it.</p>
+                  <p>My Lords, if the queſtion were asked in Weſt<g ref="char:EOLhyphen"/>minſter Hall, whether this were a crime puniſh<g ref="char:EOLhyphen"/>able in Starre-chamber, or in the Kings Bench, by fine or impriſonment, they would ſay, It went higher: If whether felony, they would ſay, That's for an offence onely againſt the life or goods of ſome one or few perſons: It would, I beleeve, be anſwered by the Judges, as it was by the chiefe Juſtice <hi>Thirning,</hi> in 21. <hi>R.</hi> 2. That though he could not judge the caſe treaſon there before him, yet if he were a Peere in Parliament, hee would ſo ad<g ref="char:EOLhyphen"/>judge it.</p>
+                  <p>My Lords, if it bee too bigge for thoſe Courts, we hope its in the right way here.</p>
+                  <p>2. The ſecond conſideration is from the frame and conſtitution of the Parliament; the Parliament is the great body politicke, it comprehends all from the King to the Beggar: if ſo, my Lords, as the naturall, ſo this body, it hath power over it ſelfe, and every one of the members for the pre<g ref="char:EOLhyphen"/>ſervation
+<pb n="72" facs="tcp:64185:55"/> of the whole: Its both the Phyſician and the patient: if the body bee diſtempered, it hath power to open a veine to let out the corrupt bloud for curing of it ſelfe; if one member be poyſoned or gangrened, it hath power to cut it off for the preſervation of the reſt.</p>
+                  <p>But, my Lords, it hath bin often inculcated, that Law-makers ſhould imitate the ſupreme Law<g ref="char:EOLhyphen"/>giver, who commonly warnes before he ſtrikes; the Law was promulged before the jugdement of death for gathering the ſtickes; no law, no tranſ<g ref="char:EOLhyphen"/>greſſion.</p>
+                  <p>My Lords, to this the rule of Law is, <hi>Fruſtra legis auxilium invocat, qui in legem committit,</hi> from the <hi>lex Talionis,</hi> he that would not have had others to have law, why ſhould he have any himſelfe? why ſhould not that be done to him, that himſelfe would have done to others?</p>
+                  <p>Its true, we give law to Hares and Deeres, be<g ref="char:EOLhyphen"/>cauſe they be beaſts of Chaſe; It was never ac<g ref="char:EOLhyphen"/>counted either cruelty or foul play to knock Foxes and Wolves on the head, as they can be found; be<g ref="char:EOLhyphen"/>cauſe theſe be beaſts of prey: The Warrener ſets traps for Powlcats and other Vermine, for pre<g ref="char:EOLhyphen"/>ſervation of the Warren.</p>
+                  <p>Further, my Lords, moſt dangerous diſeaſes, if not taken in time, they kill: Errors in great things, as Warre and Marriage, they allow no time for re<g ref="char:EOLhyphen"/>pentance; it would have been too late to make a law, when there had been no law.</p>
+                  <p>My Lords, for further anſwer to this objecti<g ref="char:EOLhyphen"/>on,
+<pb n="73" facs="tcp:64185:55"/> he hath offended a law, a law within, the en<g ref="char:EOLhyphen"/>deavouring to ſubvert the lawes and politie of the ſtate wherein he lived, which had ſo long, and with ſuch faithfulneſſe protected his Anceſtry, himſelf, and his whole family; it was not <hi>malum, quia prohi<g ref="char:EOLhyphen"/>bitum,</hi> it was <hi>malum in ſe,</hi> againſt the dictates of the dulleſt conſcience, againſt the light of nature; they, not having the law, were a law to themſelves.</p>
+                  <p>Beſides this, he knew a law without, That the Parliament in caſes of this nature had <hi>poteſtatem vitae &amp; necis.</hi>
+                  </p>
+                  <p>Nay, he well knew, that he offended the pro<g ref="char:EOLhyphen"/>mulged and ordinary rules of law: Crimes againſt law have been proved, have been confeſſed, ſo that the queſtion is not <hi>de culpa, ſed de poena,</hi> what de<g ref="char:EOLhyphen"/>gree of puniſhment thoſe faults deſerve; we muſt differ from him in opinion, that twenty felonies cannot make a treaſon, if it be meant of equality in the uſe of the Legiſlative power: for, he that de<g ref="char:EOLhyphen"/>ſerves death for one of theſe felonies alone, de<g ref="char:EOLhyphen"/>ſerves a death more painful and more ignominious for all together.</p>
+                  <p>Every felony is puniſhed with loſſe of life, lands, and goods; a felony may bee aggravated with thoſe circumſtances, as that the Parliament with good reaſon may adde to the circumſtances of pu<g ref="char:EOLhyphen"/>niſhment, as was done in the caſe of <hi>John Hall,</hi> in the Parliament of 1.
+<hi>H.</hi> 4. who for a barbarous murder committed upon the Duke of Gloceſter, ſtifling him between two feather-beds at Calice, was adjudged to be hanged, drawn, and quartered.</p>
+                  <p>
+                     <pb n="74" facs="tcp:64185:56"/> Batteries by Law are puniſhable only by fine and ſingle dammages to the party wounded.</p>
+                  <p>In the Parliament held in 1. <hi>H.</hi> 4. <hi>cap.</hi> 6. one <hi>Savadge</hi> committed a Battery upon one <hi>Chedder</hi> fervant to Sir <hi>John Brooke,</hi> a knight of the Parlia<g ref="char:EOLhyphen"/>ment for Sommerſetſhire; Its there enacted, that he ſhall pay double dammages, and ſtand convicted if he render not himſelfe by ſuch a time: The man<g ref="char:EOLhyphen"/>ner of proceedings quickned, the penalty doubled, the circumſtances were conſidered, it concerned the Common-wealth, it was Battery with breach of priviledge of Parliament.</p>
+                  <p>This made a perpetuall Act, no warning to the firſt offendor; And in the Kings Bench, as appears by the booke caſe of 9.
+<hi>H.</hi> 4. the firſt leafe, double dammages were recovered.</p>
+                  <p>My Lords, in this of the Bill the offence is high and generall, againſt the King and the Com<g ref="char:EOLhyphen"/>mon-wealth; againſt all, and the beſt of all.</p>
+                  <p>If every Felony be loſſe of life, lands and goods, what is miſuſer of the <hi>Legislative</hi> power, by additi<g ref="char:EOLhyphen"/>on of Ignominie in the death and diſpoſall of the lands to the Crowne, the publicke patrimony of the kingdome.</p>
+                  <p>But it was hoped that your Lordſhips had no more skill in the Art of killing of men, then your worthy Anceſtors.</p>
+                  <p>My Lords, this appeale from your ſelves to your Anceſtors we admit of, although we do not admit of that from your Lordſhips to the Peers of Ireland</p>
+                  <p>He hath appealed to them; your Lordſhips will
+<pb n="75" facs="tcp:64185:56"/> be pleaſed to heare what Judgement they have al<g ref="char:EOLhyphen"/>ready given in the Caſe, that is the ſeverall attain<g ref="char:EOLhyphen"/>ders of treaſon in Parliament, after the Statute of 25. <hi>E.</hi> 3. for treaſons not mentioned, nor within that Statute, and thoſe upon the firſt offendors without warning given.</p>
+                  <p>By the Statute of 25. <hi>E.</hi> 3. its treaſon to levy war againſt the King: <hi>Gomines</hi> and <hi>Weſton</hi> after<g ref="char:EOLhyphen"/>wards in Parliament in 1. <hi>R.</hi> 2. num. 38. 39. ad<g ref="char:EOLhyphen"/>judged traitors for ſurrendring two ſeverall Caſtles in France onely out of feare, without any compliance with the Enemy; this not within the Statute of 25. <hi>E.</hi>
+3.</p>
+                  <p>My Lords, in 3. <hi>R.</hi> 2. <hi>John Imperiall</hi> that came into England upon letters of ſafe conduct, as an Agent for the ſtate of Genoah, ſitting in the Evening before his doore in Breadſtreete, (as the words of the Records are,) <hi>paulo ante ignitegium; John Kirby</hi> and another Citizen comming that way, caſually <hi>Kirby</hi> trode upon his Toe: it being twilight, this grew to a quarrell, and the Embaſſa<g ref="char:EOLhyphen"/>dour was ſlaine; <hi>Kirby</hi> was indicted of high trea<g ref="char:EOLhyphen"/>ſon, the inditement findes all this, and that it was onely done <hi>ſe defendendo,</hi> and without malice.</p>
+                  <p>The Judges, it being out of the Statute of 25. <hi>E.</hi> 3. could not proceede, the Parliament declared it treaſon, and judgement afterwards of high treaſon, there's nothing can bring this within the Statute of 25. <hi>E.</hi> 3. but it concernes the honour of the Nation, that the publicke faith ſhould be ſtrictly kept: It might endanger the trafficke of the Kingdome;
+<pb n="76" facs="tcp:64185:57"/> they made not a Law firſt, they made the firſt man an example. This is in the Parliament roll, 3. <hi>R.</hi> 2.
+<hi>num.</hi> 18. and <hi>Hilary</hi> Terme, 3. <hi>R.</hi> 2. <hi>Rot.</hi>
+31. in the Kings Bench, where judgment is given againſt him.</p>
+                  <p>In 11. <hi>R.</hi> 2. <hi>Treſilian,</hi> and ſome others attainted of treaſon for delivering opinions in the ſubverſion of the Law, and ſome others for plotting the like: My Lords, the caſe hath upon another occaſion beene opened to your Lordſhips; only this is obſervable, That in the Parliament of the firſt yeare of <hi>Henry</hi> the third, where all treaſons are again reduced to the Statute of 25. <hi>E.</hi> 3. theſe Attainders were by a par<g ref="char:EOLhyphen"/>ticular Act confirmed and made good, that the me<g ref="char:EOLhyphen"/>mory thereof might bee tranſmitted to ſucceeding ages: They ſtand good unto this day; the Offences there, as here, were the endeavouring the ſubverſion of the lawes</p>
+                  <p>My Lords, after 1. <hi>H.</hi> 4. Sir <hi>John Mortimer</hi> being committed to the Tower upon ſuſpicion of treaſon, brake priſon, and made an eſcape: This no way within any Statute, or any former Judgment at com<g ref="char:EOLhyphen"/>mon Law; for this, that is, for breaking the priſon only, and no other cauſe, in the Parliament held the ſecond yeer of <hi>Henry</hi> the ſixth, hee was attainted of high treaſon by Bill.</p>
+                  <p>My Lords, Poyſoning is only murder; yet one <hi>Richard Coke</hi> having put poyſon into a pot of pot<g ref="char:EOLhyphen"/>tage in the kitchin of the Biſh. of Rocheſter where<g ref="char:EOLhyphen"/>of two perſons died, hee's attainted of treaſon, and it was enacted, that he ſhould bee boyled to death by the Statute of 22. <hi>H.</hi> 8. <hi>cap.</hi> 9.</p>
+                  <p>
+                     <pb n="77" facs="tcp:64185:57"/> By the Statute of 25. <hi>H.</hi> 8.
+<hi>Elizabeth Barton,</hi> the holy maid of Kent, for pretending revelations from God, that God was highly diſpleaſed with the King for being divorced from the Lady <hi>Katherine,</hi> and that in caſe he perſiſted in the ſeparation, and ſhould marry another, that he would not continue King a<g ref="char:EOLhyphen"/>bove one moneth after; becauſe this tended to the depriving of the lawfull ſucceſſion to the Crowne, ſhee is attainted of treaſon.</p>
+                  <p>In the Parliament 2. <hi>&amp;</hi> 3. <hi>H.</hi> 6.
+<hi>cap.</hi> 16. the Lord Admirall of England was attainted of treaſon for procuring the Kings Letters to both Houſes of Par<g ref="char:EOLhyphen"/>liament, to be good to the ſaid Earle in ſuch matters as hee ſhould declare unto them, for ſaying that hee would make the Parliament the blackeſt Parliament that ever was in England, endevouring to marry the Lady <hi>Elizabeth</hi> the Kings ſiſter, taking a bribe of <hi>Sherrington,</hi> accuſed of treaſon, and thereupon con<g ref="char:EOLhyphen"/>ſulting with Councell for him, and ſome other crimes, none of them treaſon, ſo cleerely within the Statute of 25. <hi>E.</hi> 3. or any other Statute, as is the caſe in queſtion.</p>
+                  <p>My Lords, All theſe Attainders, for ought I know, are in force at this day; the Statutes of the firſt yeere of <hi>Henry</hi> the fourth, and the firſt of Qu. <hi>Mary,</hi> although they were willing to make the Sta<g ref="char:EOLhyphen"/>tute of the five and twentieth yeere of <hi>Edward</hi> the third the rule to the inferiour Courts, yet they left the Attainders in Parliament precedent to them<g ref="char:EOLhyphen"/>ſelves untoucht, wherein the <hi>Legiſlative</hi> power had been exerciſed. There's nothing in them whence it
+<pb n="78" facs="tcp:64185:58"/> can be gathered, but that they intended to leave it as free for the future.</p>
+                  <p>My Lords, In all theſe Attainders, there were crimes and offences againſt the Law; they thought it not unjuſt, circumſtances conſidered, to heighten and add to the degrees of puniſhment, and that upon the firſt offender.</p>
+                  <p>My Lords, We receive, as juſt, the other Lawes and Statutes made by theſe our Anceſtors: they are the rules wee goe by in other caſes; why ſhould we differ from them in this alone?</p>
+                  <p>Theſe (My Lords) are in part thoſe things which have ſatisfied the Commons in paſſing of the Bill; It is now left to the Judgement and Juſtice of your Lordſhips.</p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:64185:58"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
